@@ -1,291 +1,291 @@
-﻿ID,Organisation,User type,Data supplier,Data,Regio,website,Description,geregistreerd,DA-stakeholder
-1,Agendum,Consultancy,/,/,/,http://www.agendum.nl/,nu Parkius (ID 160),No (not neccesary),No
-2,"Agentschap Maritieme Dienstverlening en Kust, DAB Vloot",Data supplier,Public transport,Maritime (incl. Ferry),Flanders TEN-T,https://www.agentschapmdk.be/index.htm,Lokale veerboten Vlaanderen,Yes,Yes
-3,Agoria - werkgroep Smart mobility,Federation/network,/,/,/,https://www.agoria.be/nl/Smart-Mobility,werkgroep i.v.m. slimme mobiliteit,No (not neccesary),No
-4,Air Antwerp,Data supplier,Organised transport - private,Air,Belgium - International,www.airantwerp.com,Air Antwerp is a Belgian airline that offers scheduled commuter flights. It is headquartered at Antwerp International Airport in Deurne,No,Yes
-5,Air Belgium,Data supplier,Organised transport - private,Air,Belgium - International,https://www.airbelgium.com/,,No,Yes
-6,Air Service Liege,Data supplier,Demand responsive transport - private,Air,Belgium - International,,Business aviation & klein onderdeel voor particulieren (empty leg flights),No (not neccesary),Yes
-7,Albacars,Data supplier,Organised transport - private,/,Brussels,https://albacars.business.site/,Busbedrijf,No,Yes
-8,Amigo Earth,Consultancy,/,/,/,https://www.amigo.earth/,Geo-consultancybureau,No (not neccesary),No
-9,Antwerp Management School - Smart Mobility,Research,/,/,/,https://www.antwerpmanagementschool.be/,Research center mobility van Antwerp Mangagement School,No (not neccesary),No
-10,Anyways,Consultancy,/,/,/,https://www.anyways.eu/,Consultancy gericht op de productie van alternatieve reistabellen,No (not neccesary),No
-11,Arcadis,Consultancy,/,/,/,https://www.arcadis.com/,consultancy met mobiliteitsexperten,No (not neccesary),No
-12,Athlon,Data supplier,Demand responsive transport - private,Car-hire,Flanders TEN-T,https://www.athlon.com/be/,leasingbedrijf en autoverhuur,No,Yes
-13,AUTOBUSSEN CANNAERTS,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,https://autobussencannaerts.be/,Internationaal busbedrijf,No,Yes
-14,AUTOCARS RAMI SPRL,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,,Internationaal busbedrijf,No,Yes
-15,Autodelen.net,Federation/network,/,/,/,www.autodelen.net,Autodelen.net is het verbindend netwerk van gedeelde mobiliteit.,Yes,No
-16,AutoMotorsShare,Data supplier,Demand responsive transport - private,Carsharing,Wallonia TEN-T,http://www.automotorsrent.be,Carsharing,Yes,Yes
-17,B2Bike,Data supplier B2B,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders TEN-T,https://www.b2bike.be/,Fietsverhuur voor bedrijven,No (not neccesary),No
-18,BAAV,Federation/network,/,Bus - classic (scheduled),/,https://www.baav.be/,Beroepsvereniging autobus en autocar ondernemingen,No (not neccesary),No
-19,BAM Belgium nv,Consultancy,/,/,/,http://www.bambelgium.be/,Afdeling Smart City & Mobility at BAM Belgium nv,No (not neccesary),No
-20,Barco,Other…,/,/,/,https://www.barco.com,"Barco designs, manufactures and markets innovative hard- and software for operational decision-making in control rooms. With Barco’s networked video walls, operators are always in control as key information from sensors, cameras and other data sources is displayed in real-time. By combining and sharing information on- screen, operators get a deeper understanding and a clearer view of the situation they have to respond to. Throughout the world’s major economic regions, Barco’s visualization technology is indispensable to traffic and security centers. In and around cities such as New York, Oslo, Vienna, Washington D.C. and Hamburg, Barco display technology helps operators to better control traffic flows, respond quickly to crisis situations, and keep public transportation passengers well-informed. In this way, Barco helps over 2.5 billion commuters start and end their working days as efficiently as possible.  ",No (not neccesary),No
-21,BattMobility,Data supplier,Demand responsive transport - private,Carsharing,Flanders TEN-T,www.BattMobiel.be,Electrisch autodelen in Vlaanderen,Yes,Yes
-22,Beci,Other…,/,/,Brussels ,https://www.beci.be,De Kamer van Koophandel Brussel,No (not neccesary),No
-23,Be-Mobile,Consultancy,/,/,/,http://www.be-mobile.com ,"Be-Mobile offers a wide array of smart mobility solutions to help public authorities, road operators and private companies improve daily mobility for travelers.",No (not neccesary),Yes
-24,BikeToWork,Federation/network,/,/,/,https://www.biketowork.be,"Afdeling/App van de fietsersbond, gericht op de promotie van fiets pendelverkeer",No (not neccesary),No
-25,Billy,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Brussels ,https://www.billy.bike/,Deelfietsen (Brussel),No,Yes
-26,Bird,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Belgium - International,https://www.bird.co,Stepdelen Brussel en Antwerpen,Yes,Yes
-27,blablacar,Data supplier,Demand responsive transport - private,carpooling,Belgium - International,https://www.blablacar.be/,long-distance carpooling platform,No,Yes
-28,Blue-Mobility/Blue-Bike,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders Local,www.blue-bike.be,Blue-mobility nv organiseert de Blue-bike deelfietsen ,Yes,Yes
-29,Bolides,Data supplier B2B,Demand responsive transport - private,Car-hire,Flanders TEN-T,https://bolides.be/,Nu wizkey en flexyfleet,Yes,No
-30,Bolt,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Belgium - International,https://bolt.eu,elektrische deelsteps en ridehailing diensten in Brussel en nadien uitbreiding,No,Yes
-31,Brulocalis,Federation/network,/,/,/,https://www.brulocalis.brussels,Association of the City and the Municipalities of the Brussels-Capital Region. Lokale Nieuwsbrief,No (not neccesary),No
-32,Brussels Airlines,Data supplier,Organised transport - private,Air,Belgium - International,https://www.brusselsairlines.com,Brussels Airlines is de nationale luchtvaartmaatschappij van België en verbindt de Europese hoofdstad met meer dan 120 bestemmingen,Yes,Yes
-33,Brussels Airport,Data supplier,Organised transport - private,Air,Belgium - International,https://www.brusselsairport.be,"National airport, and also intermodal hub",No,Yes
-34,Brussels Mobility,Data supplier,Transport authority,"Location (streets, adresses, etc)",Brussels ,https://mobilite-mobiliteit.brussels/en,Brussels mobility - lid van de PSA MMTIS werkgroep,Yes,Yes
-35,BV-OECO,Consultancy,/,/,/,https://www.oeco.be/nl/node/1,Studiebureau mobiliteit dat in de green deal zit en beleidsadvies geeft,No (not neccesary),No
-36,Cambio,Data supplier,Demand responsive transport - private,Carsharing,Belgium - International,www.cambio.be,Autodelen ,Yes,yes
-37,CarAmigo,Data supplier B2B,Demand responsive transport - private,Carsharing,Flanders TEN-T,https://www.caramigo.eu/,B2B autodelen binnen bedrijven,No (not neccesary),No
-38,Cegeka,Consultancy,/,/,/,www.cegeka.com,"IT solutions, services & consultancy ",No (not neccesary),No
-39,Charleroi Airport,Data supplier,Organised transport - private,Air,Belgium - International,https://www.brussels-charleroi-airport.com,"Brussels South Charleroi Airport S.A., the second airport serving the city of Brussels",No,Yes
-40,Circ,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders TEN-T,www.circ.com,"Deelsteps (stad A'pen, kortrijk)",No,Yes
-41,CityMapper,Data user,/,/,/,,Multimodal transport app,No (not neccesary),No
-42,Cloudbike,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Belgium - International,https://cloudbike.be/,"Bikesharing, zowel particulier als b2b",No,Yes
-43,Commuty,Data user,Demand responsive transport - private,carpooling,Brussels ,www.commuty.net,B2B MaaS,No (not neccesary),No
-44,Connect2Move,Data user,/,/,/,http://www.connect2move.be,Multimodal transport app,No (not neccesary),No
-45,CoopStroom,Data supplier,Demand responsive transport - private,Carsharing,Flanders Local,https://coopstroom.be,CoopStroom is een burgercoöperatie die naast groene energie ook 100% elektrische wagens aanbiedt.,Yes,Yes
-46,Coventuris,Consultancy,/,/,/,https://www.coventuris.com/,Transport studiebureau,No (not neccesary),No
-47,Cozywheels,Data supplier,Demand responsive transport - private,Carsharing,Belgium - International,https://www.cozywheels.be,Helpt bij privé-autodelen,Yes,Yes
-48,De Lijn ,Data supplier,Public transport,Multiple scheduled (Bus -metro -tram),Flanders TEN-T,https://www.delijn.be,PTO,Yes,Yes
-49,Degage,Data supplier,Demand responsive transport - private,Multiple Demand responsive ,Flanders TEN-T,www.degage.be,Helpt bij privé-auto- en fietsdelen,Yes,Yes
-50,Deloitte,Consultancy,/,/,/,,Mobiliteitsconsulting,No (not neccesary),No
-51,Digipolis,Other…,/,/,/,www.digipolis.be,ICT-diensten voor stad Gent en Antwerpen,No (not neccesary),No
-52,DK Engineering & Services,Consultancy,/,/,/,www.dk engineering & services.be,"consultant with a broad experience in sales, automation, mobility",No (not neccesary),No
-53,D'letteren,Other…,/,/,/,https://www.dieteren.be,Automtive mobility B2B,No (not neccesary),No
-54,Donkey Republic,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders Local,https://www.donkey.bike/,Deelfietsen - in België in Gent en Kortrijk,Yes,Yes
-55,Dott,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Brussels ,https://ridedott.com/,"dockless, shared electrical scooters and bikes",Yes,Yes
-56,Dual Inventive,Other…,/,/,/,https://dualinventive.com,Ontwikkelt ern produceert technologie voor spoorweginfrastructuur,No (not neccesary),No
-57,Dynniq,Consultancy,/,/,/,https://dynniq.com,Digitale mobiliteitsoplossingen,No (not neccesary),No
-58,Eco-Movement,Data supplier,Infrastructure manager - private,E-charging stations,Belgium - International,http://www.eco-movement.com,platform for EV charge point data.,Yes,Yes
-59,Egis,Consultancy,/,/,/,https://www.egis-group.com,Internationaal studiebureau mobiliteit/Operator airport Bruges and Oostende,No (not neccesary),Yes
-60,ERA TRANS,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,,Internationaal busbedrijf,No,Yes
-61,Espaces-mobilités,Consultancy,/,/,/,http://www.espaces-mobilites.com,Studiebureau mobiliteit,No (not neccesary),No
-62,Eurofins,Consultancy,/,/,/,http://www.eurofins.be,marking management solutions,No (not neccesary),No
-63,Europcar,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,https://www.europcar.be,autoverhuur aan particulieren,No,Yes
-64,European Commision,Federation/network,/,/,/,, EC project officer van het CEF project NAP MMTIS,No (not neccesary),No
-65,Eurostar,Data supplier,Organised transport - private,Train (international),Belgium - International,https://www.eurostar.com/be,high speed train that directly links the UK to France and Belgium via the Channel Tunnel,No,Yes
-66,Ey,Consultancy,/,/,/,,"Consultancy, verzekeringen, taxen",No (not neccesary),No
-67,Febiac,Federation/network,/,/,/,https://www.febiac.be,Federatie van auto's en tweewielers,No (not neccesary),No
-68,Federdrive,Federation/network,/,/,/,https://www.federdrive.eu/,Federatie van erkende rijscholen en opleiding/rijvaardigheidscentra,No (not neccesary),No
-69,Felyx,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Belgium - International,https://felyx.com/,"Deel e-scooter (Brussel, Antwerpen)",No,Yes
-70,Fietsberaad Vlaanderen,Federation/network,Infrastructure manager - public,Bike/Step/Scooter,Flanders TEN-T,https://fietsberaad.be,Kenniscentrum ter ondersteuning van de overheid omtrent fietsen in Vlaanderen -> fietsparkings,Yes,No
-71,Fietsersbond,Federation/network,/,/,/,https://www.fietsersbond.be/,Bond gericht op promotie fiets,No (not neccesary),No
-72,FlatTurtle,Other…,/,/,/,https://flatturtle.com/,"Software voor tracking en mobiliteitsalyses, real time traffic information",No (not neccesary),No
-73,Flibco,Data supplier,Demand responsive transport - private,Bus - shuttle (Demand responsive),Belgium - International,www.flibco.com,airport shuttle connections (brussels - charleroi),No,Yes
-74,FLIR,Other…,/,/,/,https://www.flir.eu/,Camerasystemen voor traffic management,No (not neccesary),No
-75,Flying Service,Data supplier,Demand responsive transport - private,Air,Belgium - International,https://www.flyinggroup.aero/about/,Business aviation & onderdeel voor particulieren (empty legs),No (not neccesary),Yes
-76,FOD Economie,Other…,Infrastructure manager - public,Refuelling points,Belgium - International,,beschikken over de locatiegegevens tankstations,No (not necessary),No
-77,FOD Mobiliteit,Data supplier,Transport authority,/,Belgium - International,https://mobilit.belgium.be/nl,Transport authority,Yes,Yes
-78,FOX Share,Data supplier,/,/,,http://www.devos-capoen.be,carsharing,Yes,Yes
-79,Gartner,Consultancy,/,,/,www.gartner.com,Consultancy office,No (not neccesary),No
-80,Gas.be,Data supplier,Infrastructure manager - private,Refuelling points,Belgium - International,www.gas.be,Federation of Belgian gas networks operators,Yes,Yes
-81,Gemeente Brugge,Data supplier,Infrastructure manager - public,/,Flanders Local,www.brugge.be,,No (not neccesary),Yes
-82,Gemeente Geraardsbergen,Data supplier,Infrastructure manager - public,/,Flanders Local,https://www.geraardsbergen.be/,,No (not neccesary),Yes
-83,Gemeente IDEA ,Data supplier,Infrastructure manager - public,"Location (streets, adresses, etc)",Wallonia Local,https://www.idea.be/fr/accueil.html,Intercommunale de 27 communes du coeur du Hainaut,No (not neccesary),Yes
-84,Gemeente Oostende,Data supplier,Infrastructure manager - public,/,Flanders Local,www.oostende.be,,No (not neccesary),Yes
-85,Gemeente Turnhout,Data supplier,Infrastructure manager - public,/,Flanders Local,,,No (not neccesary),Yes
-86,Geosolutions,Other…,/,/,/,www.geosolutions.be,Ontwikkelde de website transportdata.be ,Yes,No
-87,Geosparc,Consultancy,/,/,/,https://www.geosparc.com/,Consultant voor slimme mobiliteitsoplossingen ,No (not neccesary),No
-88,Getaround,Data supplier,Demand responsive transport - private,Carsharing,Belgium - International,https://be.getaround.com/,Carsharing. Oude naam: drivy,No,Yes
-89,Go Sharing,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders TEN-T,nl.go-sharing.com,deelscooters - vergunning voor Antwerpen vanaf januari 2021,No,Yes
-90,GreenMobility,Data supplier,Demand responsive transport - private,Carsharing,Flanders TEN-T,https://www.greenmobility.com,Electrische free-float carsharing,No,Yes
-91,GTL-taxi,Federation/network,/,/,/,www.gtl-taxi.be,Nationale Groepering van Ondernemingen met Taxi- en Locatievoertuigen met chauffeur,Yes,No
-92,Handycab,Data supplier,Demand responsive transport - private,taxi,Brussels ,https://booking.handycab.be,Brusselse taxidienst,No,Yes
-93,Heetch,Data supplier,Demand responsive transport - private,taxi,Belgium - International,www.heetch.com,Franse Uber,No,Yes
-94,Heli Sv,Data supplier B2B,Demand responsive transport - private,Air,Belgium - International,,Helicopters,No (not neccesary),No
-95,Heli&Co,Data supplier B2B,Demand responsive transport - private,Air,Belgium - International,,Helicopters,No (not neccesary),No
-96,Here technologies,Data user,/,/,/,https://www.here.com,"HERE enables people, enterprises and cities around the world to harness the power of location and create innovative solutions that make our lives safer and more efficient. We transform information from devices, vehicles, infrastructure and other sources into real-time location services that play a key role in how we move, live and interact with one another. To realise the full potential of ITS, now is the time to make sense of the massive quantities of real-time data. HERE makes this possible. Our leading location cloud leverages the power of those data – processing and analyzing to enable increased automation and efficiencies in transportation and mobility. The result is an interoperable analytical software and E2E integration services for Cooperative Intelligent Transportation Systems.   ",No (not neccesary),No
-97,Icoms Detections,Other…,/,/,/,https://icomsdetections.com,"Belgian company specialised in the design and manufacturing of microwave detectors and equipment for vehicle counting, classification and speed measurement, commonly known as “radars”.",No (not neccesary),No
-98,IDM,Research,/,/,/,https://www.idm.ugent.be/,Instituut voor duurzame mobiliteit Ugent,No (not neccesary),No
-99,Gemeente IGEMO,Data supplier,infrastructure manager - public,/,/,https://igemo.be/mobiliteit/,Federatie van steden en gemeenten in het arrondissement Mechelen met een onderdeel gefocust op mobiliteit,No (not neccesary),Yes
-100,Imec,Research,/,/,/,www.imec.be,Werkt voor Imec aan Vlaam MobiliData-project (https://mobilidata.be/nl/over-mobilidata),No (not neccesary),No
-101,IMOB,Research,/,/,/,,"Instituut voor mobiliteit, transportation research institute Uhasselt",No (not neccesary),No
-102,Informatie Vlaanderen,Other…,/,/,/,https://overheid.vlaanderen.be/informatie-vlaanderen,Geografische informatie Vlaanderen - ondersteunt andere overheidsdiensten,No (not neccesary),No
-103,Infrabel,Data supplier,Infrastructure manager - public,Rail - conventional,Belgium - International,www.infrabel.be,Beheerder van de Belgische spoorinfrastructuur,Yes,Yes
-104,Ingestic,Other…,/,/,/,www.ingestic.be,Data and IT services - ook betrokken met shared mobility platform mobilitia,No (not neccesary),No
-105,Inter Vlaanderen,Other…,/,/,/,www.inter.vlaanderen,Inter ondersteunt het Departement Mobiliteit en Openbare Werken om haar ambitie voor een toegankelijk mobiliteitsnetwerk te bereiken,No (not neccesary),No
-106,IntraSoft,Other…,/,/,/,www.infrasoft.be,"Traffic software engineering company specialized in real-time supervision, automation and integration of remote control components of infrastructure equipment such as bridges, locks, tunnels or smart cities",No (not neccesary),No
-107,iRail,Data user,/,Rail - conventional,Belgium - International,https://hello.irail.be,non-profit organization providing tools and APIs to anyone who wants to innovate using mobility data,Yes,No
-108,ITS.be,Federation/network,/,/,/,www.its.be, a public-private not-for-profit that seeks to accelerate the transition to sustainable mobility in Belgium,Yes,No
-109,Jump,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Brussels ,,Deelfietsen van Uber -> nu Lime,No (not neccesary),No
-110,Kapsch TrafficCom,Consultancy,/,/,/,https://www.kapsch.net/,Taxatie en vervoersspecialist,No (not neccesary),No
-111,Kenis share,Data supplier,Demand responsive transport - private,Car-hire,Flanders Local,https://www.groepkenis.be/carsharing,heet carsharing maar in feite autoverhuur voor korte periodes,No,Yes
-112,Keolis,Data supplier B2B,/,/,/,https://mercichauffeur.keolis.be/,"Buschauffeurs voor bedrijven, eigen diensten en derden",No (not neccesary),No
-113,Kowo,Data user,Demand responsive transport - private,carpooling,Brussels ,,"Kowo is the carpooling app for colleagues. It organizes everything for companies, facilitate fiscal deduction and comes with a destination insurance.",No (not neccesary),No
-114,Krautli,Other…,/,/,/,https://www.krautli.be,Producten voor vervoer (e.g. alcoholslot),No (not neccesary),No
-115,KU Leuven,Research,/,/,/,,Interested in traffic modelling and the planning and development of urban mobility,No (not neccesary),No
-116,Lab box,Other…,/,/,/,https://www.lab-box.com/,Incubator for mobility solutions,No (not neccesary),No
-117,Liege Airport,Data supplier,Organised transport - private,Air,Belgium - International,https://www.liegeairport.com,,No,Yes
-118,Lime,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Belgium - International,https://www.li.me,Stepdelen Brussel en Antwerpen app,No,Yes
-119,Localyse,Consultancy,/,/,/,https://localyse.eu,Traffic information service (Google Maps retailer),No (not neccesary),No
-120,Logistics in Wallonia,Federation/network,/,/,/,https://www.logisticsinwallonia.be,Federatie voor goederenvervoer in Wallonie,No (not neccesary),No
-121,Luchthaven Antwerpen ,Data supplier,Organised transport - private,Air,Belgium - International,https://www.luchthaven-antwerpen.com,Luchthaven Antwerpen,Yes,Yes
-122,Luchthaven Oostende,Data supplier,Organised transport - private,Air,Belgium - International,https://www.ostendbruges-airport.com,Ostend-Bruges International Airport is part of the French corporation Egis and consists of a new structure LOM-LEM.,Yes,Yes
-123,Luxaviation,Data supplier,Demand responsive transport - private,Air,Belgium - International,https://www.luxaviation.com,Business aviation (vroegere Sky Services/Abelag) (ook empty legs),No (not neccesary),Yes
-124,MaaS Global,Other…,/,/,/,https://maas.global/,"MaaS Global is bringing into reality the concept of Mobility-as-a-Service (MaaS), by building the world's first mobility ecosystem. MaaS Global aspires to upgrade the service level of transportation by joining together public and private transportation providers. Collaboration and integration of services will create a seamless and compelling travel experience for everyone, locally and globally.   ",No (not neccesary),No
-125,Macq,Consultancy,/,/,/,https://macq.eu/,Producent van software/hardware voor Smart mobility & ITS,No (not neccesary),No
-126,MaestroMobile,Consultancy,/,/,/,https://nl.maestromobile.eu/,"Onderdeel van Espaces-mobilité, studiebureau mobiliteit",No (not neccesary),No
-127,Makro Rental,Data supplier,Demand responsive transport - private,Car-hire,Flanders TEN-T,https://www.makro.be/service/rental,Huurwagens terbeschikking op Makro-parkings voor vervoer boodschappen naar huis,Yes,Yes
-128,MAP traffic Mannagement,Consultancy,/,"Location (streets, adresses, etc)",Belgium - International,www.maptm.nl,Consultancy verkeersmanagement => Europees UVAR box project ivm toegangkelijkheid (uvarbox.eu),No (not neccesary),No
-129,Meermobiel,Federation/network,/,/,/,www.meermobiel.be,Platform met info over toegankelijk en aangepast vervoer in Vlaanderen en Brussel,No (not neccesary),No
-130,Mint,Consultancy,/,/,/,https://www.mintnv.be,Mobiliteits studiebureau,No (not neccesary),No
-131,MIVB/STIB,Data supplier,Public transport,Multiple scheduled (Bus -metro -tram),Brussels ,www.mivb.be,PTO,Yes,Yes
-132,mob-box,Other…,/,/,/,,Ingeschreven voor workshop 2 (geen info over wat soort organisatie),No (not neccesary),No
-133,Mobit,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders TEN-T,https://www.mobit.eu,fietsverhuur in verschillende steden,No,Yes
-134,Mobly,Other…,/,/,/,www.mobly.be,Autoverzekering & pechverhelping -> Connected car systeem,No (not neccesary),No
-135,Modalizy,Consultancy,/,/,/,https://www.modalizy.be,"Slimme mobiliteit, aanbieder van mobiliteitskaarten",No (not neccesary),No
-136,Moovit,Data user,/,/,/,,Multimodal  transport app,No (not neccesary),No
-137,More Lion,Consultancy,/,/,/,www.more-lion.com,Independent advisor with a track record in smart mobility and project management.,,No
-138,MOW Vlaanderen,Data supplier,Transport authority,"Location (streets, adresses, etc)",Flanders TEN-T,https://departement-mow.vlaanderen.be/nl,Transport authority,Yes,Yes
-139,Multiobus,Data supplier B2B,/,,/,www.multiobus.be,verhuren autobussen voor bedrijven/scholen/groepen/verenigingen en de Lijn,No (not neccesary),No
-140,Multitel,Research,/,/,/,www.multitel.be,Transport research center,No (not neccesary),No
-141,MUSKECOACH SPRL,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,,Internationaal busbedrijf,No,Yes
-142,N.V. Robert Bosch S.A.,Consultancy,/,/,/,https://www.bosch.be,Mobiliteitsconsulting/software,No (not neccesary),No
-143,Nazka ,Data user,/,/,/,www.nazka.be,Nazka Mapps - maken kaarten obv data (oa voor mobiliteit),No (not neccesary),No
-144,Nedap,Other…,/,/,/,https://www.nedapidentification.com,Technische ontwikkelingen binnen mobiliteit,No (not neccesary),No
-145,Netwerk Duurzaam verbruiken,Federation/network,/,/,/,https://www.bewustverbruiken.be/,"Federatie voor bevordering van autodelen, fietsroutes, openbaar vervoer",No (not neccesary),No
-146,Netwerk Duurzame Mobiliteit,Federation/network,/,/,/,https://www.duurzame-mobiliteit.be/,"koepel van mobiliteitsverenigingen Autodelen.net, Bond Beter Leefmilieu, Fietsersbond, Mobiel 21, Taxistop, Trage Wegen, TreinTramBus en de Voetgangersbeweging.",Yes,No
-147,NextRide,Data user,/,/,/,https://nextride.be,Multimodal  transport app,No (not neccesary),No
-148,NGI,Data supplier,/,"Location (streets, adresses, etc)",Belgium - International,www.ngi.be,National Geographical Institute,Yes,No
-149,NHV,Data supplier B2B,Demand responsive transport - private,Air,Belgium - International,,Helicopters,No (not neccesary),No
-150,Nimera,Other…,/,/,/,www.nimera.net,Producent van software/hardware voor Smart mobility & ITS,No (not neccesary),No
-151,NRB,Consultancy,/,/,/,https://www.nrb.be,ICT consulting bureau,No (not neccesary),No
-152,NXP,Other…,/,/,/,www.nxp.com,"NXP Semiconductors N.V. (NASDAQ: NXPI) provides High Performance Mixed Signal and Standard Product solutions that leverage its leading RF, Analog, Power Management, Interface, Security and Digital Processing expertise. These innovations are used in a wide range of automotive, identification, wireless infrastructure, lighting, industrial, mobile, consumer and computing applications. A global semiconductor company with operations in more than 30 countries, NXP posted revenue of $4.4 billion in 2010. NXP drives innovation for improved vehicle efficiency and connected mobility. Key applications are car entertainment, invehicle networking, car access and immobilizers, sensors and power MOSFETs. Furthermore, NXP is key supplier for Automotive Logic, Display Drivers, Interface Products, and Small-Signal Discretes.  ",No (not neccesary),No
-153,Oktopus,Other…,/,/,/,http://www.oktopus.be/,Remote sensing voor autodetectie,No (not neccesary),No
-154,Olympus Mobility,Data user,/,/,/,https://www.olympus-mobility.be,"Duurzame mobiliteit voor bedrijven, shared mobility",No (not neccesary),No
-155,Openknowledge,Federation/network,/,/,/,https://be.okfn.org/,umbrella organisation (non-profit/vzw/asbl) for Open Knowledge initiatives.,No (not neccesary),No
-156,OpenMobility,Data user,/,/,/,www.openmobility.be,aanbieder van mobilieitsdiensten,Yes,No
-157,Optimile ,Data user,/,/,/,https://www.optimile.eu/,MaaS integrator ,No (not neccesary),No
-158,OVRAZ SPRL,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,,Internationaal busbedrijf,No,Yes
-159,Parking.Brussels,Data supplier,Infrastructure manager - public,Car parking spaces,Brussels ,https://parking.brussels/,Parkeerbedrijf van regio Brussel,Yes,yes
-160,Parkius,Consultancy,/,/,/,https://parkius.io,Digitaal parkeerbeheer,No (not neccesary),Yes
-161,Partago,Data supplier,Demand responsive transport - private,Carsharing,Flanders TEN-T,www.partago.be,Burgercoöperatie voor E-cars,Yes,Yes
-162,Pluris,Research,/,/,/,www.pluris.be,"une association pluridisciplinaire de compétences couvrant les domaines du développement territorial, de l’urbanisme et de l’environnement.",No (not neccesary),No
-163,POLIS,Federation/network,/,/,/,https://www.polisnetwork.eu/,Netwerk van Europese steden en regios die samenwerken ter promotoie van inovatieve mobiliteitsoplossingen,No (not neccesary),No
-164,Politics matters,Consultancy,/,/,/,https://www.politicsmatters.be/,Studiebureau Europese regelgeving (o.a. mobiliteit),No (not neccesary),No
-165,Poppy,Data supplier,Demand responsive transport - private,Multiple Demand responsive ,Belgium - International,https://poppy.be/en/,"Deel auto's, scooters en fietsen en Brussel en Antwerpen",Yes,Yes
-166,PTV group,Other…,/,/,/,https://www.ptvgroup.com,"PTV Group improves mobility and transport - by using world-class software, data and scientific know-how gained from four decades of experience in planning and optimising the movement of people and goods. Recognised as global market player with German technology, we help cities, companies and people save time and money, enhance road safety and minimise the impact on the environment. In Logistics, our portfolio ranges from software for scheduling transport routes and trips to distribution planning and fleet management, including truck navigation and parking. A special online service provides real-time info during the transport process and across the entire supply chain.  In Traffic, we offer technologies for traffic planning, network modelling and simulating across all modes of transport, including real-time traffic management as well as Mobility-as-a-Service (MaaS) solutions.  ",No (not neccesary),No
-167,Pulsar Consulting,Consultancy,/,/,/,http://www.pulsar.be,IT consulting met expertise binnen de mobiliteitssecor,No (not neccesary),No
-168,Pwc,Consultancy,/,/,/,www.pwc.be,"Audit, tax and consulting services. Mobiliteitsexpert.",No (not neccesary),No
-169,Q2C,Other…,/,/,/,https://www.q2c.be/,Producent van parkeerautomaten en parkeersensoren,No (not neccesary),No
-170,Railer ,Other…,/,/,/,,App die de NMBS railtime vervangt (onofficieel),No (not neccesary),No
-171,Rauwers,Other…,/,/,/,https://rauwers.be,"Parking en urban mobility, signalisatie, verkeerscamera's",No (not neccesary),No
-172,Renta,Federation/network,/,/,/,www.renta.be,Renta is the Belgian Vehicle Rental Assocation. Both long term rental and short term rental.,Yes,Yes
-173,SAIT - Securitas,Consultancy,/,/,/,https://www.sait.be/,"SAIT nv is an independent specialist and advisor in integrated ICT. We provide private companies as well as local, national and international institutions with fully integrated, wireless systems and solutions for their ICT and security issues. Thanks to these high quality products, both private and public sector clients have at their fingertips the invaluable and essential tools they need for highly sensitive, confidential communication and data transfer. SAIT nv delivers solutions tailored to specific situations where security, guaranteed access and reliability are crucial. We are organized into 6 Centres of expertise offering “Mission Critical Solutions”: Mission Critical Communication Solutions, Physical Security Solutions, ICT Security Solutions, Data Center Infrastructure Services, Carrier Grade Solutions as well as Alignment & IT Governance. SAIT is part of Securitas. ",No (not neccesary),No
-174,Sattelic,Other…,/,/,/,https://www.satellic.be/,Tolsystemen,No (not neccesary),No
-175,SEMI TOURS BVBA ,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,http://www.semitours.be/,,No,Yes
-177,Serv (sociaal economische raad Vlaanderen),Other…,/,/,/,www.serv.be,Sociaal-Economische Raad van Vlaanderen,No (not neccesary),No
-178,Service2Cities,Other…,/,/,/,https://www.clearchannel.be,Onderdeel van Clear Channel Belgie die zich bezig houdt met de promotie van de fiets,No (not neccesary),No
-179,Share Mobility,Data user,/,/,/,https://sharemobility.coù,MaaS-aanbieder,No (not neccesary),No
-180,Siemens,Other…,/,/,/,www.siemens.com, Siemens Mobility,No (not neccesary),No
-181,SNCB/NMBS,Data supplier,Public transport,Rail - conventional,Belgium - International,https://www.belgiantrain.be,PTO,Yes,Yes
-182,Sofico,Consultancy,/,/,/,https://www.sofico.global/en/,IT consulting met expertise binnen de mobiliteitssecor,No (not neccesary),No
-183,Spie,Other…,/,/,/,https://www.spie.be,"Laadpalen, parkingsensoren, informatieborden",No (not neccesary),No
-184,SPW Wallonie,Data supplier,Transport authority,"Location (streets, adresses, etc)",Wallonia TEN-T,,Transport authority,Yes,Yes
-185,Stad Antwerpen,Data supplier,Infrastructure manager - public,"Location (streets, adresses, etc)",Flanders TEN-T,www.antwerpen.be,Stad Antwerpen,Yes,Yes
-186,Stad Gent,Data supplier,Infrastructure manager - public,"Location (streets, adresses, etc)",Flanders Local,https://stad.gent,Stad Gent,Yes,Yes
-187,STAF CARS N.V.,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,https://www.sindbad.pl,Internationaal busbedrijf,No,Yes
-188,Stapp.in,Data supplier,Demand responsive transport - private,Carsharing,Flanders Local,https://www.stappin.be,Autodeelformule voor particulieren en bedrijven,Yes,Yes
-189,Suivo,Other…,/,/,/,https://www.suivo.com/,Fleet management control hardware and software,No (not neccesary),No
-190,SV TRAVEL SPRL,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,https://rc-travel.com/,Internationaal busbedrijf,No,Yes
-191,SwapFiets,Data supplier,Demand responsive transport - private,Bike/Scooter -hire,Belgium - International,https://swapfiets.be,langetermijn fietshuren (per maand),No,Yes
-192,Tapazz,Consultancy,/,/,/,https://tapazz.eu/,"Actief binnnen autodelen, levert/maakt software voor bedrijven dus niet rechtstreeks een aanbieder/gegevensaanbieder maar eerder een consultancy",No (not neccesary),No
-193,Taxis Bleus,Data supplier,Demand responsive transport - private,taxi,Brussels ,https://www.taxisbleus.be,Brusselse taxidienst,No,Yes
-194,Taxis verts,Data supplier,Demand responsive transport - private,taxi,Brussels ,https://taxisverts.be,Brusselse taxidienst,No,Yes
-195,Taxistop,Federation/network,Demand responsive transport - private,carpooling,Belgium - International,https://www.taxistop.be/,"Centraliseert carpooldiensten, autodelen, last minute ferries, minder mobiel centrales etc",Yes,Yes
-196,TEC,Data supplier,Public transport,Multiple scheduled (Bus -metro -tram),Wallonia TEN-T,www.infotec.be,PTO,Yes,Yes
-197,Tein technology,Consultancy,/,/,/,http://www.teintechnology.com,Mobiliteits consultancy,No (not neccesary),No
-198,Thalys,Data supplier,Public transport,Rail - high speed (Internationaal),Belgium - International,www.thalys.com,"Hogesnelheidstrein tussen België, Frankrijk, Nederland, Duitsland",No,Yes
-199,The Mobility Factory SCE,Data supplier,Demand responsive transport - private,Carsharing,Belgium - International,http://www.themobilityfactory.eu/,"e-carsharing in Brussel, Antwerpen en Gent",No,Yes
-200,The New Drive,Consultancy,/,/,/,https://www.thenewdrive.be/,Projectmanagementbureau met focus voor mobiliteitssector en duurzaamheid,No (not neccesary),No
-201,Tomtom,Data user,/,/,/,www.tomtom.com,"Locatie, navigatie en kaart specialist",No (not neccesary),No
-202,Touring,Other…,/,/,/,https://www.touring.be,Pechverhelping,No (not neccesary),No
-203,Tractebel (Engie),Consultancy,/,/,/,https://tractebel-engie.be/,Goods transport;Parking & urban mobility;Police and rescue;Public transport & shared mobility;Taxation;Traffic Urban transport,No (not neccesary),No
-204,Trafineo,Other…,/,/,/,https://www.trafineo.com,EU tollsystemen provider,No (not neccesary),No
-205,Transport & mobility Leuven,Research,/,/,/,www.tmleuven..be,applied mobility and transport research to support policy decisions,No (not neccesary),No
-206,Transport Insights,Consultancy,/,/,/,https://transportinsights.com/,Irish based transport planning consultancy.,No (not neccesary),No
-207,Traxio,Federation/network,/,/,/,https://www.traxio.be,Federatie van het autovervoer,No (not neccesary),No
-208,TUI,Data supplier,Organised transport - private,Air,Belgium - International,www.tui.be,chartervluchten (tuifly) en georganiseerde vakanties (tui),Yes,Yes
-209,Uber,Data supplier,Demand responsive transport - private,taxi,Brussels ,https://www.uber.com/global/nl/cities/brussels/,Alternatief voor taxi in Brusel,Yes,Yes
-210,Ugent,Research,/,/,/,,Professor Ugent met focus op transporteconomie,No (not neccesary),No
-211,Uhasselt - Instituut voor mobiliteit,Research,/,/,/,,Onderzoeker verkeerskunde Uhasselt,No (not neccesary),No
-212,UAntwerpen - Departement Transport & ruimtelijke economie,Research,/,/,/,,Department transport en ruimtelijke economie van de UA,No (not neccesary),No
-213,Universiteit Liege - Smart City Institute,Research,/,/,/,http://labos.ulg.ac.be/smart-city/en/,Onderzoeker mobiliteit,No (not neccesary),No
-214,Unizo - departement mobiliteit,Federation/network,/,/,/,https://www.unizo.be/standpunten/mobiliteit,Afdeling van Unizo die zich bezig houdt met mobiliteit,No (not neccesary),No
-215,Urbee,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders Local,https://urbee.nl,Deelfietsen (momenteel in Leuven),No,Yes
-216,VAB,Federation/network,/,/,/,http://www.vab.be,Mobiliteitsvereniging,No (not neccesary),No
-217,Valckenier Share,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,https://www.valckeniergroep.be,Sales Advisor Fleet & Rent bij Valckenier,Yes,Yes
-218,Velo,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Belgium - International,www.velo-antwerpen.be,Deelfietsen stad A'pen,No,Yes
-219,Vereniging Vlaamse Provincies (VVP),Federation/network,/,/,Flanders Local,https://www.vlaamseprovincies.be/,"Provincies kunnen via dit contact bereikt worden, stafmedewerker mobiliteit",No (not neccesary),No
-220,Victor,Data supplier,Demand responsive transport - private,taxi,Brussels ,http://www.victorcab.be/,Brusselse taxidienst,No,Yes
-221,Villo!,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Brussels ,www.villo.be,Deelfietsen Brussel,No,Yes
-222,Vito,Research,/,/,/,www.vito.be,,No (not neccesary),No
-223,"Vlaanderen - Department Economie, wetenschap en innovatie",Other…,/,,/,,,No (not neccesary),No
-224,Voi app,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,/,https://www.voiscooters.com/,Deel E-scooters (en fietsen) -> nog niet in België volgens hun website!,No (not neccesary),Yes
-225,"Voyages Moulouya SPRL
-",Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,https://www.moulouya.ma/,Internationaal busbedrijf,No,Yes
-226,VRP,Federation/network,/,/,/,www.vrp.be,Vlaamse vereniging voor ruimte en planning ,No (not neccesary),No
-227,VUB,Research,/,/,/,https://mobi.research.vub.be/en/lo%C3%AFc-pecher,"VUB - mobi (mobility, logistics & automotive technology research center)",No (not neccesary),No
-228,VVSG,Federation/network,/,/,/,www.vvsg.be,Vereniging Vlaamse steden en gemeentes. Lokale Nieuwsbrief,No (not neccesary),No
-229,Waterbus,Data supplier,Organised transport - private,Maritime (incl. Ferry),Brussels ,https://www.waterbus.eu,"intergewestelijke, klokvaste waterbus in de kanaalzone tussen Brussel, Schaarbeek, Neder-Over-Heembeek en Vilvoorde",No,Yes
-230,Wheels / Takewheels,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Brussels ,https://getwheelsapp.zendesk.com/hc/en-us ,Deelfietsen (Brussel),No,Yes
-231,Whim,Data user,/,/,/,https://whimapp.com/be,Multimodal  transport app,No (not neccesary),No
-232,Wibee,Data supplier,Demand responsive transport - private,Carsharing,Brussels ,https://www.wibee.be/nl,"Wibee is een aanbieder van (niet-elektrische) wagens, georganiseerd per wijkgroep.",No,Yes
-233,Wijdelen/Peerby,Data supplier,Demand responsive transport - private,Multiple Demand responsive ,Flanders Local,https://www.peerby.com,Deelapp met een klein onderdeel voor het delen van persoonlijke fiets (en testfase voor de auto),No,Yes
-234,Worldline,Other…,/,/,/,https://be.worldline.com,"At Worldline, connecting and securing transactions is what we do on a daily basis. With our technological expertise covering the whole payment value chain, and with millions of highly critical transactions running through our systems, we create and operate digital platforms that handle all the transactions between a company, its partners and its customers. Through our platforms, we empower the right person with exactly the right service at the right moment of engagement. And we do it using our knowledge of our customers, markets and the user journey – all powered by our innovation, creativity and A-to-Z support.
+ID,,Organisation,User type,Data supplier,Data,Regio,website,Description,geregistreerd,DA-stakeholder,,,,,
+1,,Agendum,Consultancy,/,/,/,http://www.agendum.nl/,nu Parkius (ID 160),No (not neccesary),No,,,,,
+2,d94bddd0-dea0-4742-8857-1d20b2526b0a,"Agentschap Maritieme Dienstverlening en Kust, DAB Vloot",Data supplier,Public transport,Maritime (incl. Ferry),Flanders TEN-T,https://www.agentschapmdk.be/index.htm,Lokale veerboten Vlaanderen,Yes,Yes,,,,,
+3,,Agoria - werkgroep Smart mobility,Federation/network,/,/,/,https://www.agoria.be/nl/Smart-Mobility,werkgroep i.v.m. slimme mobiliteit,No (not neccesary),No,,,,,
+4,,Air Antwerp,Data supplier,Organised transport - private,Air,Belgium - International,www.airantwerp.com,Air Antwerp is a Belgian airline that offers scheduled commuter flights. It is headquartered at Antwerp International Airport in Deurne,No,Yes,,,,,
+5,,Air Belgium,Data supplier,Organised transport - private,Air,Belgium - International,https://www.airbelgium.com/,,No,Yes,,,,,
+6,,Air Service Liege,Data supplier,Demand responsive transport - private,Air,Belgium - International,,Business aviation & klein onderdeel voor particulieren (empty leg flights),No (not neccesary),Yes,,,,,
+7,,Albacars,Data supplier,Organised transport - private,/,Brussels,https://albacars.business.site/,Busbedrijf,No,Yes,,,,,
+8,,Amigo Earth,Consultancy,/,/,/,https://www.amigo.earth/,Geo-consultancybureau,No (not neccesary),No,,,,,
+9,,Antwerp Management School - Smart Mobility,Research,/,/,/,https://www.antwerpmanagementschool.be/,Research center mobility van Antwerp Mangagement School,No (not neccesary),No,,,,,
+10,,Anyways,Consultancy,/,/,/,https://www.anyways.eu/,Consultancy gericht op de productie van alternatieve reistabellen,No (not neccesary),No,,,,,
+11,,Arcadis,Consultancy,/,/,/,https://www.arcadis.com/,consultancy met mobiliteitsexperten,No (not neccesary),No,,,,,
+12,,Athlon,Data supplier,Demand responsive transport - private,Car-hire,Flanders TEN-T,https://www.athlon.com/be/,leasingbedrijf en autoverhuur,No,Yes,,,,,
+13,,AUTOBUSSEN CANNAERTS,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,https://autobussencannaerts.be/,Internationaal busbedrijf,No,Yes,,,,,
+14,,AUTOCARS RAMI SPRL,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,,Internationaal busbedrijf,No,Yes,,,,,
+15,cd6b8fc8-53b6-4e64-8b9d-def8c7d23055 ,Autodelen.net,Federation/network,/,/,/,www.autodelen.net,Autodelen.net is het verbindend netwerk van gedeelde mobiliteit.,Yes,No,,,,,
+16,133d3851-963f-4b5a-8b5a-a3e367eb6ac4,AutoMotorsShare,Data supplier,Demand responsive transport - private,Carsharing,Wallonia TEN-T,http://www.automotorsrent.be,Carsharing,Yes,Yes,,,,,
+17,,B2Bike,Data supplier B2B,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders TEN-T,https://www.b2bike.be/,Fietsverhuur voor bedrijven,No (not neccesary),No,,,,,
+18,,BAAV,Federation/network,/,Bus - classic (scheduled),/,https://www.baav.be/,Beroepsvereniging autobus en autocar ondernemingen,No (not neccesary),No,,,,,
+19,,BAM Belgium nv,Consultancy,/,/,/,http://www.bambelgium.be/,Afdeling Smart City & Mobility at BAM Belgium nv,No (not neccesary),No,,,,,
+20,,Barco,Other…,/,/,/,https://www.barco.com,"Barco designs, manufactures and markets innovative hard- and software for operational decision-making in control rooms. With Barco’s networked video walls, operators are always in control as key information from sensors, cameras and other data sources is displayed in real-time. By combining and sharing information on- screen, operators get a deeper understanding and a clearer view of the situation they have to respond to. Throughout the world’s major economic regions, Barco’s visualization technology is indispensable to traffic and security centers. In and around cities such as New York, Oslo, Vienna, Washington D.C. and Hamburg, Barco display technology helps operators to better control traffic flows, respond quickly to crisis situations, and keep public transportation passengers well-informed. In this way, Barco helps over 2.5 billion commuters start and end their working days as efficiently as possible.  ",No (not neccesary),No,,,,,
+21,9f8a927f-38ce-4d93-a0c2-56bd6b781313 ,BattMobility,Data supplier,Demand responsive transport - private,Carsharing,Flanders TEN-T,www.BattMobiel.be,Electrisch autodelen in Vlaanderen,Yes,Yes,,,,,
+22,,Beci,Other…,/,/,Brussels ,https://www.beci.be,De Kamer van Koophandel Brussel,No (not neccesary),No,,,,,
+23,,Be-Mobile,Consultancy,/,/,/,http://www.be-mobile.com ,"Be-Mobile offers a wide array of smart mobility solutions to help public authorities, road operators and private companies improve daily mobility for travelers.",No (not neccesary),Yes,,,,,
+24,,BikeToWork,Federation/network,/,/,/,https://www.biketowork.be,"Afdeling/App van de fietsersbond, gericht op de promotie van fiets pendelverkeer",No (not neccesary),No,,,,,
+25,,Billy,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Brussels ,https://www.billy.bike/,Deelfietsen (Brussel),No,Yes,,,,,
+26,60d2bbf6-1dd9-49d5-b1f9-34977812e683 ,Bird,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Belgium - International,https://www.bird.co,Stepdelen Brussel en Antwerpen,Yes,Yes,,,,,
+27,,blablacar,Data supplier,Demand responsive transport - private,carpooling,Belgium - International,https://www.blablacar.be/,long-distance carpooling platform,No,Yes,,,,,
+28,c06c738f-1866-4101-98d0-1aee9ee75870 ,Blue-Mobility/Blue-Bike,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders Local,www.blue-bike.be,Blue-mobility nv organiseert de Blue-bike deelfietsen ,Yes,Yes,,,,,
+29,bfd174fb-fce6-42c3-a527-55c242ac108d,Bolides,Data supplier B2B,Demand responsive transport - private,Car-hire,Flanders TEN-T,https://bolides.be/,Nu wizkey en flexyfleet,Yes,No,,,,,
+30,284c480c-b759-4ed5-970c-67cd704daab0 ,Bolt,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Belgium - International,https://bolt.eu,elektrische deelsteps en ridehailing diensten in Brussel en nadien uitbreiding,No,Yes,,,,,
+31,,Brulocalis,Federation/network,/,/,/,https://www.brulocalis.brussels,Association of the City and the Municipalities of the Brussels-Capital Region. Lokale Nieuwsbrief,No (not neccesary),No,,,,,
+32,ed47455b-9fb0-44eb-8cf8-d084ae8bf320 ,Brussels Airlines,Data supplier,Organised transport - private,Air,Belgium - International,https://www.brusselsairlines.com,Brussels Airlines is de nationale luchtvaartmaatschappij van België en verbindt de Europese hoofdstad met meer dan 120 bestemmingen,Yes,Yes,,,,,
+33,,Brussels Airport,Data supplier,Organised transport - private,Air,Belgium - International,https://www.brusselsairport.be,"National airport, and also intermodal hub",No,Yes,,,,,
+34,1c24bea0-4c07-477c-9162-52efc6cb672c ,Brussels Mobility,Data supplier,Transport authority,"Location (streets, adresses, etc)",Brussels ,https://mobilite-mobiliteit.brussels/en,Brussels mobility - lid van de PSA MMTIS werkgroep,Yes,Yes,,,,,
+35,,BV-OECO,Consultancy,/,/,/,https://www.oeco.be/nl/node/1,Studiebureau mobiliteit dat in de green deal zit en beleidsadvies geeft,No (not neccesary),No,,,,,
+36,efea590e-7d62-4120-8962-31c0067c7d2d ,Cambio,Data supplier,Demand responsive transport - private,Carsharing,Belgium - International,www.cambio.be,Autodelen ,Yes,yes,,,,,
+37,,CarAmigo,Data supplier B2B,Demand responsive transport - private,Carsharing,Flanders TEN-T,https://www.caramigo.eu/,B2B autodelen binnen bedrijven,No (not neccesary),No,,,,,
+38,,Cegeka,Consultancy,/,/,/,www.cegeka.com,"IT solutions, services & consultancy ",No (not neccesary),No,,,,,
+39,,Charleroi Airport,Data supplier,Organised transport - private,Air,Belgium - International,https://www.brussels-charleroi-airport.com,"Brussels South Charleroi Airport S.A., the second airport serving the city of Brussels",No,Yes,,,,,
+40,,Circ,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders TEN-T,www.circ.com,"Deelsteps (stad A'pen, kortrijk)",No,Yes,,,,,
+41,,CityMapper,Data user,/,/,/,,Multimodal transport app,No (not neccesary),No,,,,,
+42,,Cloudbike,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Belgium - International,https://cloudbike.be/,"Bikesharing, zowel particulier als b2b",No,Yes,,,,,
+43,,Commuty,Data user,Demand responsive transport - private,carpooling,Brussels ,www.commuty.net,B2B MaaS,No (not neccesary),No,,,,,
+44,,Connect2Move,Data user,/,/,/,http://www.connect2move.be,Multimodal transport app,No (not neccesary),No,,,,,
+45,bbd2be08-4234-4f92-81be-f0c4827bb326 ,CoopStroom,Data supplier,Demand responsive transport - private,Carsharing,Flanders Local,https://coopstroom.be,CoopStroom is een burgercoöperatie die naast groene energie ook 100% elektrische wagens aanbiedt.,Yes,Yes,,,,,
+46,,Coventuris,Consultancy,/,/,/,https://www.coventuris.com/,Transport studiebureau,No (not neccesary),No,,,,,
+47,da052ba0-a06a-448c-b71e-c7aae4a94e26 ,Cozywheels,Data supplier,Demand responsive transport - private,Carsharing,Belgium - International,https://www.cozywheels.be,Helpt bij privé-autodelen,Yes,Yes,,,,,
+48,afe8ff35-ca50-46e2-be98-d19b0fc650b9 ,De Lijn ,Data supplier,Public transport,Multiple scheduled (Bus -metro -tram),Flanders TEN-T,https://www.delijn.be,PTO,Yes,Yes,,,,,
+49,44f8d4c3-99f8-43c3-8cc0-3d11a7b10451 ,Degage,Data supplier,Demand responsive transport - private,Multiple Demand responsive ,Flanders TEN-T,www.degage.be,Helpt bij privé-auto- en fietsdelen,Yes,Yes,,,,,
+50,,Deloitte,Consultancy,/,/,/,,Mobiliteitsconsulting,No (not neccesary),No,,,,,
+51,,Digipolis,Other…,/,/,/,www.digipolis.be,ICT-diensten voor stad Gent en Antwerpen,No (not neccesary),No,,,,,
+52,,DK Engineering & Services,Consultancy,/,/,/,www.dk engineering & services.be,"consultant with a broad experience in sales, automation, mobility",No (not neccesary),No,,,,,
+53,,D'letteren,Other…,/,/,/,https://www.dieteren.be,Automtive mobility B2B,No (not neccesary),No,,,,,
+54,4f423e99-f281-4ece-bb8a-08dea55b0f92 ,Donkey Republic,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders Local,https://www.donkey.bike/,Deelfietsen - in België in Gent en Kortrijk,Yes,Yes,,,,,
+55,f978c360-18fe-4f6f-9d8c-5fd55bd6d4a7 ,Dott,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Brussels ,https://ridedott.com/,"dockless, shared electrical scooters and bikes",Yes,Yes,,,,,
+56,,Dual Inventive,Other…,/,/,/,https://dualinventive.com,Ontwikkelt ern produceert technologie voor spoorweginfrastructuur,No (not neccesary),No,,,,,
+57,,Dynniq,Consultancy,/,/,/,https://dynniq.com,Digitale mobiliteitsoplossingen,No (not neccesary),No,,,,,
+58,55d3ff67-6d27-4911-a79d-3602b213d9fb ,Eco-Movement,Data supplier,Infrastructure manager - private,E-charging stations,Belgium - International,http://www.eco-movement.com,platform for EV charge point data.,Yes,Yes,,,,,
+59,,Egis,Consultancy,/,/,/,https://www.egis-group.com,Internationaal studiebureau mobiliteit/Operator airport Bruges and Oostende,No (not neccesary),Yes,,,,,
+60,,ERA TRANS,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,,Internationaal busbedrijf,No,Yes,,,,,
+61,,Espaces-mobilités,Consultancy,/,/,/,http://www.espaces-mobilites.com,Studiebureau mobiliteit,No (not neccesary),No,,,,,
+62,,Eurofins,Consultancy,/,/,/,http://www.eurofins.be,marking management solutions,No (not neccesary),No,,,,,
+63,,Europcar,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,https://www.europcar.be,autoverhuur aan particulieren,No,Yes,,,,,
+64,,European Commision,Federation/network,/,/,/,, EC project officer van het CEF project NAP MMTIS,No (not neccesary),No,,,,,
+65,,Eurostar,Data supplier,Organised transport - private,Train (international),Belgium - International,https://www.eurostar.com/be,high speed train that directly links the UK to France and Belgium via the Channel Tunnel,No,Yes,,,,,
+66,,Ey,Consultancy,/,/,/,,"Consultancy, verzekeringen, taxen",No (not neccesary),No,,,,,
+67,,Febiac,Federation/network,/,/,/,https://www.febiac.be,Federatie van auto's en tweewielers,No (not neccesary),No,,,,,
+68,,Federdrive,Federation/network,/,/,/,https://www.federdrive.eu/,Federatie van erkende rijscholen en opleiding/rijvaardigheidscentra,No (not neccesary),No,,,,,
+69,,Felyx,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Belgium - International,https://felyx.com/,"Deel e-scooter (Brussel, Antwerpen)",No,Yes,,,,,
+70,77a504ed-26b7-4344-a08f-82cf1a34e05b ,Fietsberaad Vlaanderen,Federation/network,Infrastructure manager - public,Bike/Step/Scooter,Flanders TEN-T,https://fietsberaad.be,Kenniscentrum ter ondersteuning van de overheid omtrent fietsen in Vlaanderen -> fietsparkings,Yes,No,,,,,
+71,,Fietsersbond,Federation/network,/,/,/,https://www.fietsersbond.be/,Bond gericht op promotie fiets,No (not neccesary),No,,,,,
+72,,FlatTurtle,Other…,/,/,/,https://flatturtle.com/,"Software voor tracking en mobiliteitsalyses, real time traffic information",No (not neccesary),No,,,,,
+73,,Flibco,Data supplier,Demand responsive transport - private,Bus - shuttle (Demand responsive),Belgium - International,www.flibco.com,airport shuttle connections (brussels - charleroi),No,Yes,,,,,
+74,,FLIR,Other…,/,/,/,https://www.flir.eu/,Camerasystemen voor traffic management,No (not neccesary),No,,,,,
+75,,Flying Service,Data supplier,Demand responsive transport - private,Air,Belgium - International,https://www.flyinggroup.aero/about/,Business aviation & onderdeel voor particulieren (empty legs),No (not neccesary),Yes,,,,,
+76,,FOD Economie,Other…,Infrastructure manager - public,Refuelling points,Belgium - International,,beschikken over de locatiegegevens tankstations,No (not necessary),No,,,,,
+77,22c83c6b-6f0c-4c99-9102-046a7812cbe1 ,FOD Mobiliteit,Data supplier,Transport authority,/,Belgium - International,https://mobilit.belgium.be/nl,Transport authority,Yes,Yes,,,,,
+78,b471fcd9-0fc1-4652-9f1e-7b31642ef25e ,FOX Share,Data supplier,/,/,,http://www.devos-capoen.be,carsharing,Yes,Yes,,,,,
+79,,Gartner,Consultancy,/,,/,www.gartner.com,Consultancy office,No (not neccesary),No,,,,,
+80,a0b6cba2-3d9f-4813-864f-6ba45c7e0690 ,Gas.be,Data supplier,Infrastructure manager - private,Refuelling points,Belgium - International,www.gas.be,Federation of Belgian gas networks operators,Yes,Yes,,,,,
+81,,Gemeente Brugge,Data supplier,Infrastructure manager - public,/,Flanders Local,www.brugge.be,,No (not neccesary),Yes,,,,,
+82,,Gemeente Geraardsbergen,Data supplier,Infrastructure manager - public,/,Flanders Local,https://www.geraardsbergen.be/,,No (not neccesary),Yes,,,,,
+83,,Gemeente IDEA ,Data supplier,Infrastructure manager - public,"Location (streets, adresses, etc)",Wallonia Local,https://www.idea.be/fr/accueil.html,Intercommunale de 27 communes du coeur du Hainaut,No (not neccesary),Yes,,,,,
+84,,Gemeente Oostende,Data supplier,Infrastructure manager - public,/,Flanders Local,www.oostende.be,,No (not neccesary),Yes,,,,,
+85,,Gemeente Turnhout,Data supplier,Infrastructure manager - public,/,Flanders Local,,,No (not neccesary),Yes,,,,,
+86,5bcc0eee-486a-4d1c-af0f-767ba8615d8e ,Geosolutions,Other…,/,/,/,www.geosolutions.be,Ontwikkelde de website transportdata.be ,Yes,No,,,,,
+87,,Geosparc,Consultancy,/,/,/,https://www.geosparc.com/,Consultant voor slimme mobiliteitsoplossingen ,No (not neccesary),No,,,,,
+88,,Getaround,Data supplier,Demand responsive transport - private,Carsharing,Belgium - International,https://be.getaround.com/,Carsharing. Oude naam: drivy,No,Yes,,,,,
+89,,Go Sharing,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders TEN-T,nl.go-sharing.com,deelscooters - vergunning voor Antwerpen vanaf januari 2021,No,Yes,,,,,
+90,,GreenMobility,Data supplier,Demand responsive transport - private,Carsharing,Flanders TEN-T,https://www.greenmobility.com,Electrische free-float carsharing,No,Yes,,,,,
+91,47df5593-804c-4fd9-9079-50e7b454f1b9 ,GTL-taxi,Federation/network,/,/,/,www.gtl-taxi.be,Nationale Groepering van Ondernemingen met Taxi- en Locatievoertuigen met chauffeur,Yes,No,,,,,
+92,,Handycab,Data supplier,Demand responsive transport - private,taxi,Brussels ,https://booking.handycab.be,Brusselse taxidienst,No,Yes,,,,,
+93,,Heetch,Data supplier,Demand responsive transport - private,taxi,Belgium - International,www.heetch.com,Franse Uber,No,Yes,,,,,
+94,,Heli Sv,Data supplier B2B,Demand responsive transport - private,Air,Belgium - International,,Helicopters,No (not neccesary),No,,,,,
+95,,Heli&Co,Data supplier B2B,Demand responsive transport - private,Air,Belgium - International,,Helicopters,No (not neccesary),No,,,,,
+96,,Here technologies,Data user,/,/,/,https://www.here.com,"HERE enables people, enterprises and cities around the world to harness the power of location and create innovative solutions that make our lives safer and more efficient. We transform information from devices, vehicles, infrastructure and other sources into real-time location services that play a key role in how we move, live and interact with one another. To realise the full potential of ITS, now is the time to make sense of the massive quantities of real-time data. HERE makes this possible. Our leading location cloud leverages the power of those data – processing and analyzing to enable increased automation and efficiencies in transportation and mobility. The result is an interoperable analytical software and E2E integration services for Cooperative Intelligent Transportation Systems.   ",No (not neccesary),No,,,,,
+97,,Icoms Detections,Other…,/,/,/,https://icomsdetections.com,"Belgian company specialised in the design and manufacturing of microwave detectors and equipment for vehicle counting, classification and speed measurement, commonly known as “radars”.",No (not neccesary),No,,,,,
+98,,IDM,Research,/,/,/,https://www.idm.ugent.be/,Instituut voor duurzame mobiliteit Ugent,No (not neccesary),No,,,,,
+99,,Gemeente IGEMO,Data supplier,infrastructure manager - public,/,/,https://igemo.be/mobiliteit/,Federatie van steden en gemeenten in het arrondissement Mechelen met een onderdeel gefocust op mobiliteit,No (not neccesary),Yes,,,,,
+100,,Imec,Research,/,/,/,www.imec.be,Werkt voor Imec aan Vlaam MobiliData-project (https://mobilidata.be/nl/over-mobilidata),No (not neccesary),No,,,,,
+101,,IMOB,Research,/,/,/,,"Instituut voor mobiliteit, transportation research institute Uhasselt",No (not neccesary),No,,,,,
+102,,Informatie Vlaanderen,Other…,/,/,/,https://overheid.vlaanderen.be/informatie-vlaanderen,Geografische informatie Vlaanderen - ondersteunt andere overheidsdiensten,No (not neccesary),No,,,,,
+103,fe150c96-ce8b-4c91-adfd-cbaaff49a664 ,Infrabel,Data supplier,Infrastructure manager - public,Rail - conventional,Belgium - International,www.infrabel.be,Beheerder van de Belgische spoorinfrastructuur,Yes,Yes,,,,,
+104,,Ingestic,Other…,/,/,/,www.ingestic.be,Data and IT services - ook betrokken met shared mobility platform mobilitia,No (not neccesary),No,,,,,
+105,,Inter Vlaanderen,Other…,/,/,/,www.inter.vlaanderen,Inter ondersteunt het Departement Mobiliteit en Openbare Werken om haar ambitie voor een toegankelijk mobiliteitsnetwerk te bereiken,No (not neccesary),No,,,,,
+106,,IntraSoft,Other…,/,/,/,www.infrasoft.be,"Traffic software engineering company specialized in real-time supervision, automation and integration of remote control components of infrastructure equipment such as bridges, locks, tunnels or smart cities",No (not neccesary),No,,,,,
+107,02ca0281-43c7-4024-86ce-5d749d0803a1 ,iRail,Data user,/,Rail - conventional,Belgium - International,https://hello.irail.be,non-profit organization providing tools and APIs to anyone who wants to innovate using mobility data,Yes,No,,,,,
+108,793b404d-9092-45dc-a077-929f615cd7b8 ,ITS.be,Federation/network,/,/,/,www.its.be, a public-private not-for-profit that seeks to accelerate the transition to sustainable mobility in Belgium,Yes,No,,,,,
+109,,Jump,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Brussels ,,Deelfietsen van Uber -> nu Lime,No (not neccesary),No,,,,,
+110,,Kapsch TrafficCom,Consultancy,/,/,/,https://www.kapsch.net/,Taxatie en vervoersspecialist,No (not neccesary),No,,,,,
+111,,Kenis share,Data supplier,Demand responsive transport - private,Car-hire,Flanders Local,https://www.groepkenis.be/carsharing,heet carsharing maar in feite autoverhuur voor korte periodes,No,Yes,,,,,
+112,,Keolis,Data supplier B2B,/,/,/,https://mercichauffeur.keolis.be/,"Buschauffeurs voor bedrijven, eigen diensten en derden",No (not neccesary),No,,,,,
+113,,Kowo,Data user,Demand responsive transport - private,carpooling,Brussels ,,"Kowo is the carpooling app for colleagues. It organizes everything for companies, facilitate fiscal deduction and comes with a destination insurance.",No (not neccesary),No,,,,,
+114,,Krautli,Other…,/,/,/,https://www.krautli.be,Producten voor vervoer (e.g. alcoholslot),No (not neccesary),No,,,,,
+115,,KU Leuven,Research,/,/,/,,Interested in traffic modelling and the planning and development of urban mobility,No (not neccesary),No,,,,,
+116,,Lab box,Other…,/,/,/,https://www.lab-box.com/,Incubator for mobility solutions,No (not neccesary),No,,,,,
+117,,Liege Airport,Data supplier,Organised transport - private,Air,Belgium - International,https://www.liegeairport.com,,No,Yes,,,,,
+118,,Lime,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Belgium - International,https://www.li.me,Stepdelen Brussel en Antwerpen app,No,Yes,,,,,
+119,,Localyse,Consultancy,/,/,/,https://localyse.eu,Traffic information service (Google Maps retailer),No (not neccesary),No,,,,,
+120,,Logistics in Wallonia,Federation/network,/,/,/,https://www.logisticsinwallonia.be,Federatie voor goederenvervoer in Wallonie,No (not neccesary),No,,,,,
+121,bbed25ec-4a6d-4e5c-a458-2780a4e3c981 ,Luchthaven Antwerpen ,Data supplier,Organised transport - private,Air,Belgium - International,https://www.luchthaven-antwerpen.com,Luchthaven Antwerpen,Yes,Yes,,,,,
+122,58da9ab1-d919-4d0f-9a92-bc9fe4d5fc50 ,Luchthaven Oostende,Data supplier,Organised transport - private,Air,Belgium - International,https://www.ostendbruges-airport.com,Ostend-Bruges International Airport is part of the French corporation Egis and consists of a new structure LOM-LEM.,Yes,Yes,,,,,
+123,,Luxaviation,Data supplier,Demand responsive transport - private,Air,Belgium - International,https://www.luxaviation.com,Business aviation (vroegere Sky Services/Abelag) (ook empty legs),No (not neccesary),Yes,,,,,
+124,,MaaS Global,Other…,/,/,/,https://maas.global/,"MaaS Global is bringing into reality the concept of Mobility-as-a-Service (MaaS), by building the world's first mobility ecosystem. MaaS Global aspires to upgrade the service level of transportation by joining together public and private transportation providers. Collaboration and integration of services will create a seamless and compelling travel experience for everyone, locally and globally.   ",No (not neccesary),No,,,,,
+125,,Macq,Consultancy,/,/,/,https://macq.eu/,Producent van software/hardware voor Smart mobility & ITS,No (not neccesary),No,,,,,
+126,,MaestroMobile,Consultancy,/,/,/,https://nl.maestromobile.eu/,"Onderdeel van Espaces-mobilité, studiebureau mobiliteit",No (not neccesary),No,,,,,
+127,f635fac2-07d8-41ea-8940-2111db1c641a ,Makro Rental,Data supplier,Demand responsive transport - private,Car-hire,Flanders TEN-T,https://www.makro.be/service/rental,Huurwagens terbeschikking op Makro-parkings voor vervoer boodschappen naar huis,Yes,Yes,,,,,
+128,,MAP traffic Mannagement,Consultancy,/,"Location (streets, adresses, etc)",Belgium - International,www.maptm.nl,Consultancy verkeersmanagement => Europees UVAR box project ivm toegangkelijkheid (uvarbox.eu),No (not neccesary),No,,,,,
+129,,Meermobiel,Federation/network,/,/,/,www.meermobiel.be,Platform met info over toegankelijk en aangepast vervoer in Vlaanderen en Brussel,No (not neccesary),No,,,,,
+130,,Mint,Consultancy,/,/,/,https://www.mintnv.be,Mobiliteits studiebureau,No (not neccesary),No,,,,,
+131,84d5205e-2131-466d-96ba-e1c9b33b305a ,MIVB/STIB,Data supplier,Public transport,Multiple scheduled (Bus -metro -tram),Brussels ,www.mivb.be,PTO,Yes,Yes,,,,,
+132,,mob-box,Other…,/,/,/,,Ingeschreven voor workshop 2 (geen info over wat soort organisatie),No (not neccesary),No,,,,,
+133,,Mobit,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders TEN-T,https://www.mobit.eu,fietsverhuur in verschillende steden,No,Yes,,,,,
+134,,Mobly,Other…,/,/,/,www.mobly.be,Autoverzekering & pechverhelping -> Connected car systeem,No (not neccesary),No,,,,,
+135,,Modalizy,Consultancy,/,/,/,https://www.modalizy.be,"Slimme mobiliteit, aanbieder van mobiliteitskaarten",No (not neccesary),No,,,,,
+136,,Moovit,Data user,/,/,/,,Multimodal  transport app,No (not neccesary),No,,,,,
+137,3526574b-c02b-4a99-8141-e2d08f4840af ,More Lion,Consultancy,/,/,/,www.more-lion.com,Independent advisor with a track record in smart mobility and project management.,,No,,,,,
+138,95854801-05e2-49ff-9b48-c58c04eb24f5 ,MOW Vlaanderen,Data supplier,Transport authority,"Location (streets, adresses, etc)",Flanders TEN-T,https://departement-mow.vlaanderen.be/nl,Transport authority,Yes,Yes,,,,,
+139,,Multiobus,Data supplier B2B,/,,/,www.multiobus.be,verhuren autobussen voor bedrijven/scholen/groepen/verenigingen en de Lijn,No (not neccesary),No,,,,,
+140,,Multitel,Research,/,/,/,www.multitel.be,Transport research center,No (not neccesary),No,,,,,
+141,,MUSKECOACH SPRL,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,,Internationaal busbedrijf,No,Yes,,,,,
+142,,N.V. Robert Bosch S.A.,Consultancy,/,/,/,https://www.bosch.be,Mobiliteitsconsulting/software,No (not neccesary),No,,,,,
+143,,Nazka ,Data user,/,/,/,www.nazka.be,Nazka Mapps - maken kaarten obv data (oa voor mobiliteit),No (not neccesary),No,,,,,
+144,,Nedap,Other…,/,/,/,https://www.nedapidentification.com,Technische ontwikkelingen binnen mobiliteit,No (not neccesary),No,,,,,
+145,,Netwerk Duurzaam verbruiken,Federation/network,/,/,/,https://www.bewustverbruiken.be/,"Federatie voor bevordering van autodelen, fietsroutes, openbaar vervoer",No (not neccesary),No,,,,,
+146,,Netwerk Duurzame Mobiliteit,Federation/network,/,/,/,https://www.duurzame-mobiliteit.be/,"koepel van mobiliteitsverenigingen Autodelen.net, Bond Beter Leefmilieu, Fietsersbond, Mobiel 21, Taxistop, Trage Wegen, TreinTramBus en de Voetgangersbeweging.",Yes,No,,,,,
+147,,NextRide,Data user,/,/,/,https://nextride.be,Multimodal  transport app,No (not neccesary),No,,,,,
+148,82e1025c-4db4-4a9c-95f6-e474db508f3f ,NGI,Data supplier,/,"Location (streets, adresses, etc)",Belgium - International,www.ngi.be,National Geographical Institute,Yes,No,,,,,
+149,,NHV,Data supplier B2B,Demand responsive transport - private,Air,Belgium - International,,Helicopters,No (not neccesary),No,,,,,
+150,,Nimera,Other…,/,/,/,www.nimera.net,Producent van software/hardware voor Smart mobility & ITS,No (not neccesary),No,,,,,
+151,,NRB,Consultancy,/,/,/,https://www.nrb.be,ICT consulting bureau,No (not neccesary),No,,,,,
+152,,NXP,Other…,/,/,/,www.nxp.com,"NXP Semiconductors N.V. (NASDAQ: NXPI) provides High Performance Mixed Signal and Standard Product solutions that leverage its leading RF, Analog, Power Management, Interface, Security and Digital Processing expertise. These innovations are used in a wide range of automotive, identification, wireless infrastructure, lighting, industrial, mobile, consumer and computing applications. A global semiconductor company with operations in more than 30 countries, NXP posted revenue of $4.4 billion in 2010. NXP drives innovation for improved vehicle efficiency and connected mobility. Key applications are car entertainment, invehicle networking, car access and immobilizers, sensors and power MOSFETs. Furthermore, NXP is key supplier for Automotive Logic, Display Drivers, Interface Products, and Small-Signal Discretes.  ",No (not neccesary),No,,,,,
+153,,Oktopus,Other…,/,/,/,http://www.oktopus.be/,Remote sensing voor autodetectie,No (not neccesary),No,,,,,
+154,,Olympus Mobility,Data user,/,/,/,https://www.olympus-mobility.be,"Duurzame mobiliteit voor bedrijven, shared mobility",No (not neccesary),No,,,,,
+155,,Openknowledge,Federation/network,/,/,/,https://be.okfn.org/,umbrella organisation (non-profit/vzw/asbl) for Open Knowledge initiatives.,No (not neccesary),No,,,,,
+156,9584fa07-c912-43a5-8d70-5287808a8507 ,OpenMobility,Data user,/,/,/,www.openmobility.be,aanbieder van mobilieitsdiensten,Yes,No,,,,,
+157,,Optimile ,Data user,/,/,/,https://www.optimile.eu/,MaaS integrator ,No (not neccesary),No,,,,,
+158,,OVRAZ SPRL,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,,Internationaal busbedrijf,No,Yes,,,,,
+159,b6bc5309-3140-452e-9c1f-367338a1fc26 ,Parking.Brussels,Data supplier,Infrastructure manager - public,Car parking spaces,Brussels ,https://parking.brussels/,Parkeerbedrijf van regio Brussel,Yes,yes,,,,,
+160,,Parkius,Consultancy,/,/,/,https://parkius.io,Digitaal parkeerbeheer,No (not neccesary),Yes,,,,,
+161,f253715f-dc76-4be4-bcbe-e3ef1df57460 ,Partago,Data supplier,Demand responsive transport - private,Carsharing,Flanders TEN-T,www.partago.be,Burgercoöperatie voor E-cars,Yes,Yes,,,,,
+162,,Pluris,Research,/,/,/,www.pluris.be,"une association pluridisciplinaire de compétences couvrant les domaines du développement territorial, de l’urbanisme et de l’environnement.",No (not neccesary),No,,,,,
+163,,POLIS,Federation/network,/,/,/,https://www.polisnetwork.eu/,Netwerk van Europese steden en regios die samenwerken ter promotoie van inovatieve mobiliteitsoplossingen,No (not neccesary),No,,,,,
+164,,Politics matters,Consultancy,/,/,/,https://www.politicsmatters.be/,Studiebureau Europese regelgeving (o.a. mobiliteit),No (not neccesary),No,,,,,
+165,a91b5609-0b3d-44dd-a10c-6883938f1df1 ,Poppy,Data supplier,Demand responsive transport - private,Multiple Demand responsive ,Belgium - International,https://poppy.be/en/,"Deel auto's, scooters en fietsen en Brussel en Antwerpen",Yes,Yes,,,,,
+166,,PTV group,Other…,/,/,/,https://www.ptvgroup.com,"PTV Group improves mobility and transport - by using world-class software, data and scientific know-how gained from four decades of experience in planning and optimising the movement of people and goods. Recognised as global market player with German technology, we help cities, companies and people save time and money, enhance road safety and minimise the impact on the environment. In Logistics, our portfolio ranges from software for scheduling transport routes and trips to distribution planning and fleet management, including truck navigation and parking. A special online service provides real-time info during the transport process and across the entire supply chain.  In Traffic, we offer technologies for traffic planning, network modelling and simulating across all modes of transport, including real-time traffic management as well as Mobility-as-a-Service (MaaS) solutions.  ",No (not neccesary),No,,,,,
+167,,Pulsar Consulting,Consultancy,/,/,/,http://www.pulsar.be,IT consulting met expertise binnen de mobiliteitssecor,No (not neccesary),No,,,,,
+168,,Pwc,Consultancy,/,/,/,www.pwc.be,"Audit, tax and consulting services. Mobiliteitsexpert.",No (not neccesary),No,,,,,
+169,,Q2C,Other…,/,/,/,https://www.q2c.be/,Producent van parkeerautomaten en parkeersensoren,No (not neccesary),No,,,,,
+170,,Railer ,Other…,/,/,/,,App die de NMBS railtime vervangt (onofficieel),No (not neccesary),No,,,,,
+171,,Rauwers,Other…,/,/,/,https://rauwers.be,"Parking en urban mobility, signalisatie, verkeerscamera's",No (not neccesary),No,,,,,
+172,1acfa71f-38ef-48ac-9394-7aa3b0b6bbc8 ,Renta,Federation/network,/,/,/,www.renta.be,Renta is the Belgian Vehicle Rental Assocation. Both long term rental and short term rental.,Yes,Yes,,,,,
+173,,SAIT - Securitas,Consultancy,/,/,/,https://www.sait.be/,"SAIT nv is an independent specialist and advisor in integrated ICT. We provide private companies as well as local, national and international institutions with fully integrated, wireless systems and solutions for their ICT and security issues. Thanks to these high quality products, both private and public sector clients have at their fingertips the invaluable and essential tools they need for highly sensitive, confidential communication and data transfer. SAIT nv delivers solutions tailored to specific situations where security, guaranteed access and reliability are crucial. We are organized into 6 Centres of expertise offering “Mission Critical Solutions”: Mission Critical Communication Solutions, Physical Security Solutions, ICT Security Solutions, Data Center Infrastructure Services, Carrier Grade Solutions as well as Alignment & IT Governance. SAIT is part of Securitas. ",No (not neccesary),No,,,,,
+174,,Sattelic,Other…,/,/,/,https://www.satellic.be/,Tolsystemen,No (not neccesary),No,,,,,
+175,,SEMI TOURS BVBA ,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,http://www.semitours.be/,,No,Yes,,,,,
+177,,Serv (sociaal economische raad Vlaanderen),Other…,/,/,/,www.serv.be,Sociaal-Economische Raad van Vlaanderen,No (not neccesary),No,,,,,
+178,,Service2Cities,Other…,/,/,/,https://www.clearchannel.be,Onderdeel van Clear Channel Belgie die zich bezig houdt met de promotie van de fiets,No (not neccesary),No,,,,,
+179,,Share Mobility,Data user,/,/,/,https://sharemobility.coù,MaaS-aanbieder,No (not neccesary),No,,,,,
+180,,Siemens,Other…,/,/,/,www.siemens.com, Siemens Mobility,No (not neccesary),No,,,,,
+181,2a624b63-e4c3-4a68-a44a-3a2714ed6d2f ,SNCB/NMBS,Data supplier,Public transport,Rail - conventional,Belgium - International,https://www.belgiantrain.be,PTO,Yes,Yes,,,,,
+182,,Sofico,Consultancy,/,/,/,https://www.sofico.global/en/,IT consulting met expertise binnen de mobiliteitssecor,No (not neccesary),No,,,,,
+183,,Spie,Other…,/,/,/,https://www.spie.be,"Laadpalen, parkingsensoren, informatieborden",No (not neccesary),No,,,,,
+184,19f23fcf-eac7-4f54-a557-1e975ae9ba20 ,SPW Wallonie,Data supplier,Transport authority,"Location (streets, adresses, etc)",Wallonia TEN-T,,Transport authority,Yes,Yes,,,,,
+185,00ba9872-c225-43a1-9539-11935ced7e5f ,Stad Antwerpen,Data supplier,Infrastructure manager - public,"Location (streets, adresses, etc)",Flanders TEN-T,www.antwerpen.be,Stad Antwerpen,Yes,Yes,,,,,
+186,6b074cea-1660-401f-8782-b7c87e004ad4 ,Stad Gent,Data supplier,Infrastructure manager - public,"Location (streets, adresses, etc)",Flanders Local,https://stad.gent,Stad Gent,Yes,Yes,,,,,
+187,,STAF CARS N.V.,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,https://www.sindbad.pl,Internationaal busbedrijf,No,Yes,,,,,
+188,26ddfcf8-9a2b-4a78-b083-b6480dfd6a88 ,Stapp.in,Data supplier,Demand responsive transport - private,Carsharing,Flanders Local,https://www.stappin.be,Autodeelformule voor particulieren en bedrijven,Yes,Yes,,,,,
+189,,Suivo,Other…,/,/,/,https://www.suivo.com/,Fleet management control hardware and software,No (not neccesary),No,,,,,
+190,,SV TRAVEL SPRL,Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,https://rc-travel.com/,Internationaal busbedrijf,No,Yes,,,,,
+191,,SwapFiets,Data supplier,Demand responsive transport - private,Bike/Scooter -hire,Belgium - International,https://swapfiets.be,langetermijn fietshuren (per maand),No,Yes,,,,,
+192,,Tapazz,Consultancy,/,/,/,https://tapazz.eu/,"Actief binnnen autodelen, levert/maakt software voor bedrijven dus niet rechtstreeks een aanbieder/gegevensaanbieder maar eerder een consultancy",No (not neccesary),No,,,,,
+193,,Taxis Bleus,Data supplier,Demand responsive transport - private,taxi,Brussels ,https://www.taxisbleus.be,Brusselse taxidienst,No,Yes,,,,,
+194,,Taxis verts,Data supplier,Demand responsive transport - private,taxi,Brussels ,https://taxisverts.be,Brusselse taxidienst,No,Yes,,,,,
+195,,Taxistop,Federation/network,Demand responsive transport - private,carpooling,Belgium - International,https://www.taxistop.be/,"Centraliseert carpooldiensten, autodelen, last minute ferries, minder mobiel centrales etc",Yes,Yes,,,,,
+196,c34fa256-6ece-465f-b074-7b5b161bb9b8 ,TEC,Data supplier,Public transport,Multiple scheduled (Bus -metro -tram),Wallonia TEN-T,www.infotec.be,PTO,Yes,Yes,,,,,
+197,,Tein technology,Consultancy,/,/,/,http://www.teintechnology.com,Mobiliteits consultancy,No (not neccesary),No,,,,,
+198,,Thalys,Data supplier,Public transport,Rail - high speed (Internationaal),Belgium - International,www.thalys.com,"Hogesnelheidstrein tussen België, Frankrijk, Nederland, Duitsland",No,Yes,,,,,
+199,,The Mobility Factory SCE,Data supplier,Demand responsive transport - private,Carsharing,Belgium - International,http://www.themobilityfactory.eu/,"e-carsharing in Brussel, Antwerpen en Gent",No,Yes,,,,,
+200,,The New Drive,Consultancy,/,/,/,https://www.thenewdrive.be/,Projectmanagementbureau met focus voor mobiliteitssector en duurzaamheid,No (not neccesary),No,,,,,
+201,,Tomtom,Data user,/,/,/,www.tomtom.com,"Locatie, navigatie en kaart specialist",No (not neccesary),No,,,,,
+202,,Touring,Other…,/,/,/,https://www.touring.be,Pechverhelping,No (not neccesary),No,,,,,
+203,,Tractebel (Engie),Consultancy,/,/,/,https://tractebel-engie.be/,Goods transport,Parking & urban mobility,Police and rescue,,Taxation,Traffic Urban transport,No (not neccesary),No
+204,,Trafineo,Other…,/,/,/,https://www.trafineo.com,EU tollsystemen provider,No (not neccesary),No,,,,,
+205,,Transport & mobility Leuven,Research,/,/,/,www.tmleuven..be,applied mobility and transport research to support policy decisions,No (not neccesary),No,,,,,
+206,,Transport Insights,Consultancy,/,/,/,https://transportinsights.com/,Irish based transport planning consultancy.,No (not neccesary),No,,,,,
+207,,Traxio,Federation/network,/,/,/,https://www.traxio.be,Federatie van het autovervoer,No (not neccesary),No,,,,,
+208,d1b2c541-42ee-4973-82dd-3b35528eb98c ,TUI,Data supplier,Organised transport - private,Air,Belgium - International,www.tui.be,chartervluchten (tuifly) en georganiseerde vakanties (tui),Yes,Yes,,,,,
+209,09049f36-093d-44e2-8e6a-34c7fa4d1c01 ,Uber,Data supplier,Demand responsive transport - private,taxi,Brussels ,https://www.uber.com/global/nl/cities/brussels/,Alternatief voor taxi in Brusel,Yes,Yes,,,,,
+210,,Ugent,Research,/,/,/,,Professor Ugent met focus op transporteconomie,No (not neccesary),No,,,,,
+211,,Uhasselt - Instituut voor mobiliteit,Research,/,/,/,,Onderzoeker verkeerskunde Uhasselt,No (not neccesary),No,,,,,
+212,,UAntwerpen - Departement Transport & ruimtelijke economie,Research,/,/,/,,Department transport en ruimtelijke economie van de UA,No (not neccesary),No,,,,,
+213,,Universiteit Liege - Smart City Institute,Research,/,/,/,http://labos.ulg.ac.be/smart-city/en/,Onderzoeker mobiliteit,No (not neccesary),No,,,,,
+214,,Unizo - departement mobiliteit,Federation/network,/,/,/,https://www.unizo.be/standpunten/mobiliteit,Afdeling van Unizo die zich bezig houdt met mobiliteit,No (not neccesary),No,,,,,
+215,,Urbee,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders Local,https://urbee.nl,Deelfietsen (momenteel in Leuven),No,Yes,,,,,
+216,,VAB,Federation/network,/,/,/,http://www.vab.be,Mobiliteitsvereniging,No (not neccesary),No,,,,,
+217,ffa2db5d-e730-499d-a82a-dd037b4dc2a9 ,Valckenier Share,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,https://www.valckeniergroep.be,Sales Advisor Fleet & Rent bij Valckenier,Yes,Yes,,,,,
+218,,Velo,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Belgium - International,www.velo-antwerpen.be,Deelfietsen stad A'pen,No,Yes,,,,,
+219,,Vereniging Vlaamse Provincies (VVP),Federation/network,/,/,Flanders Local,https://www.vlaamseprovincies.be/,"Provincies kunnen via dit contact bereikt worden, stafmedewerker mobiliteit",No (not neccesary),No,,,,,
+220,,Victor,Data supplier,Demand responsive transport - private,taxi,Brussels ,http://www.victorcab.be/,Brusselse taxidienst,No,Yes,,,,,
+221,,Villo!,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Brussels ,www.villo.be,Deelfietsen Brussel,No,Yes,,,,,
+222,,Vito,Research,/,/,/,www.vito.be,,No (not neccesary),No,,,,,
+223,,"Vlaanderen - Department Economie, wetenschap en innovatie",Other…,/,,/,,,No (not neccesary),No,,,,,
+224,,Voi app,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,/,https://www.voiscooters.com/,Deel E-scooters (en fietsen) -> nog niet in België volgens hun website!,No (not neccesary),Yes,,,,,
+225,,"Voyages Moulouya SPRL
+",Data supplier,Organised transport - private,Bus - long distance (scheduled),Belgium - International,https://www.moulouya.ma/,Internationaal busbedrijf,No,Yes,,,,,
+226,,VRP,Federation/network,/,/,/,www.vrp.be,Vlaamse vereniging voor ruimte en planning ,No (not neccesary),No,,,,,
+227,,VUB,Research,/,/,/,https://mobi.research.vub.be/en/lo%C3%AFc-pecher,"VUB - mobi (mobility, logistics & automotive technology research center)",No (not neccesary),No,,,,,
+228,,VVSG,Federation/network,/,/,/,www.vvsg.be,Vereniging Vlaamse steden en gemeentes. Lokale Nieuwsbrief,No (not neccesary),No,,,,,
+229,,Waterbus,Data supplier,Organised transport - private,Maritime (incl. Ferry),Brussels ,https://www.waterbus.eu,"intergewestelijke, klokvaste waterbus in de kanaalzone tussen Brussel, Schaarbeek, Neder-Over-Heembeek en Vilvoorde",No,Yes,,,,,
+230,,Wheels / Takewheels,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Brussels ,https://getwheelsapp.zendesk.com/hc/en-us ,Deelfietsen (Brussel),No,Yes,,,,,
+231,,Whim,Data user,/,/,/,https://whimapp.com/be,Multimodal  transport app,No (not neccesary),No,,,,,
+232,,Wibee,Data supplier,Demand responsive transport - private,Carsharing,Brussels ,https://www.wibee.be/nl,"Wibee is een aanbieder van (niet-elektrische) wagens, georganiseerd per wijkgroep.",No,Yes,,,,,
+233,,Wijdelen/Peerby,Data supplier,Demand responsive transport - private,Multiple Demand responsive ,Flanders Local,https://www.peerby.com,Deelapp met een klein onderdeel voor het delen van persoonlijke fiets (en testfase voor de auto),No,Yes,,,,,
+234,,Worldline,Other…,/,/,/,https://be.worldline.com,"At Worldline, connecting and securing transactions is what we do on a daily basis. With our technological expertise covering the whole payment value chain, and with millions of highly critical transactions running through our systems, we create and operate digital platforms that handle all the transactions between a company, its partners and its customers. Through our platforms, we empower the right person with exactly the right service at the right moment of engagement. And we do it using our knowledge of our customers, markets and the user journey – all powered by our innovation, creativity and A-to-Z support.
 
-We are active in Merchant Services & Terminals, eMobility and eTransactional Services and Financial Processing. We generated annual revenues of € 1.22 billion in 2015 and employ over 8,600 people worldwide.  ",No (not neccesary),No
-235,WoW-mobility,Other…,/,Multiple Demand responsive ,,https://wow-mobility.com/,"Organiseren deelfietsen, deelautos en secured fietsparkings voor bedrijven en steden",No (not neccesary),No
-236,XXimo,Other…,/,/,/,https://www.xximo.be/,Mobiliteitsoplossingen voor de zakelijke reiziger,No (not neccesary),No
-237,Zen car,Data supplier,Demand responsive transport - private,Carsharing,Belgium - International,http://zencar.eu/nl/,Autodelen voor bedrijven (B2B),Yes,Yes
-238,FBAA,Federation/network,/,/,Belgium - International,https://www.fbaa.be/,Belgische Federatie van Autocar en Autobus,No (not neccesary),No
-239,Control Body,Other…,/,/,/,,,No (not neccesary),No
-240,Stoomlink,Data user,/,/,/,https://stoomlink.com/,Creates digital products for greener mobility - route planner,Yes,No
-241,Belgian ITS Steering Committee,Other…,/,/,/,https://mobilit.belgium.be/nl/mobiliteit/intelligente_vervoersystemen/its_stuurgroep,,Yes,No
-242,Hoppy,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders Local,https://hoppsharing.be/,Electrische deelsteps in Mechelen,No (not neccesary),Yes
-243,AAB Genva,Data supplier,Demand responsive transport - private,Car-hire,Flanders Local,http://www.aabgenva.be/,Autoverhuurbedrijf te Kontich,No (not neccesary),Yes
-244,AVIS,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,www.avis.be,Autoverhuurbedrijf in meerdere steden,No,Yes
-245,Delrue Rent,Data supplier,Demand responsive transport - private,Car-hire,Flanders Local,https://www.delruerent.be/index.php,Autoverhuurbedrijf in meerdere (kleinere) Vlaamse steden,No (not neccesary),Yes
-246,De Roeck,Data supplier,Demand responsive transport - private,Car-hire,Flanders TEN-T,www.deroeck.be,Autoverhuurbedrijf in Antwerpen,No,Yes
-247,Dockx rental,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,https://www.dockx.be,Autoverhuurbedrijf in meerdere Belgische steden,No,Yes
-248,Mols Huurwagens,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,www.mols.be,Autoverhuurbedrijf in meerdere Belgische steden,No,Yes
-249,Hertz,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,www.hertz.be,Autoverhuurbedrijf in meerdere Belgische steden,No,Yes
-250,Sixt,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,www.sixt.be,Autoverhuurbedrijf in meerdere Belgische steden,No,Yes
-251,Sobeltax,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,https://www.sobeltaxrental.be,Autoverhuurbedrijf in meerdere Belgische steden,No,Yes
-252,Rent A Car,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,https://www.rentacar.be,Autoverhuurbedrijf in meerdere Belgische steden,No,Yes
-253,VH Huurwagens,Data supplier,Demand responsive transport - private,Car-hire,Flanders Local,https://vhhuurwagens.be,Autoverhuur in Geel en omstreken,No (not neccesary),Yes
-254,Liefkenshoektunnel,Data supplier,Infrastructure manager - private,Toll,Flanders TEN-T,https://www.liefkenshoektunnel.be/,Tunnel met tol in Antwerpen,No,Yes
-255,Antwerp-tax,Data supplier,Demand responsive transport - private,taxi,Flanders TEN-T,www.antwerp-tax.be,Antwerpse taxicentrale,No,Yes
-256,Aptu,Federation/network,Demand responsive transport - private,taxi,Flanders TEN-T,https://aptu.be,Antwerpse provinciale taxi unie,No (not neccesary),No
-257,DTM Taxi,Data supplier,Demand responsive transport - private,taxi,Flanders TEN-T,https://dtmtaxi.be/,Antwerpse taxicentrale,No,Yes
-258,Beepmeup,Data supplier,Demand responsive transport - private,taxi,Flanders TEN-T,https://beepmeup.be/,Antwerpse taxicentrale,No,Yes
-259,Unitax,Data supplier,Demand responsive transport - private,taxi,Belgium - International,https://www.unitax.be/,"Taxicentrale Brussel, zaventem en vlaams brabant",No,Yes
-260,Cargoroo,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders Local,https://cargoroo.nl,Deel e-bakfietsen in Leuven,No (not neccesary),Yes
-261,la navette fluviale,Data supplier,Organised transport - private,Maritime,Wallonia local,https://www.navettefluviale.be/en/,Ferry Luik,No (not neccesary),Yes
-262,HUSK,Data supplier,Demand responsive transport - private,taxi,Brussels,www.justhusk.be,private driver platform in Brussels (B2B and for individuals),No,Yes
-263,Fietsbus,Data supplier,Organised transport - private,Bus - classic (scheduled),Flanders TEN-T,https://www.portofantwerp.com/nl/fietsbus,Fietsbus van linker- naar rechteroever in de Antwerpsehaven,No,Yes
-264,DeWaterbus,Data supplier,Organised transport - private,Maritime (incl. Ferry),Flanders TEN-T,https://dewaterbus.be/,Ferry van Antwerpen naar Hemiksem,No,Yes
-265,Flexifleet,Consultancy,/,/,/,https://wizkey.eu/,SAAS - mobiliteitsconsultant (vroeger Bollides),No,No
-266,Wizkey,Data supplier B2B,/,/,/,https://flexifleet.eu/,B2B car sharing and rental service,No,No
-267,Waterlimo,Data supplier,Organised transport - private,Maritime (incl. Ferry),Flanders TEN-T,https://waterlimo.be,Ferry van Antwerpen naar Temse,No,Yes
-268,Total,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.total.com,keten van tankstations,No,Yes
-269,Q8,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.q8.be,keten van tankstations,No,Yes
-270,Shell,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.shell.com,keten van tankstations,No,Yes
-271,Texaco,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.texaco.com,keten van tankstations,No,Yes
-272,Esso,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.esso.be,keten van tankstations,No,Yes
-273,Lukoil,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.lukoil.be,keten van tankstations,No,Yes
-274,Dats24,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,https://customer.dats24.be/wps/portal/datscustomer/nl/dats24/mobility,keten van tankstations,No,Yes
-275,Gabriëls-Power,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.gabriels.be,keten van tankstations,No,Yes
-276,Octa+,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.octaplus.be,keten van tankstations,No,Yes
-277,Asoil,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,https://andrecelis.be/andrecelis_nl/asoil-tankstations,keten van tankstations,No,Yes
-278,Avia,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.avia.be,keten van tankstations,No,Yes
-279,G&V,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.g-v.be,keten van tankstations,No,Yes
-280,Gulf,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.gulf.be,keten van tankstations,No,Yes
-281,Maes,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.maes-oil.be,keten van tankstations,No,Yes
-282,PMO,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,https://www.pmo-service.be/nl/tankstations,keten van tankstations,No,Yes
-283,Pollet NV,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,http://polletnv.be/stations,keten van tankstations,No,Yes
-284,Van Raak,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,https://vanraak.be,keten van tankstations,No,Yes
-285,VdB Energie,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,https://www.vdbenergie.be,keten van tankstations,No,Yes
-286,VIAS,Federation/network,/,/,/,www.vias.be,Onafhankelijk kennisinstituut over verkeersveiligheid en mobiliteit,No,No
-287,Sceltamobility,Consultany,/,/,/,www.sceltamobility.be,mobilietisbureau,No,No
-288,Mobitwin,Data supplier,Demand responsive,/,Belgium - International,www.mobitwin.be,Sociaalvervoer voor mindermobielen,No,Yes
+We are active in Merchant Services & Terminals, eMobility and eTransactional Services and Financial Processing. We generated annual revenues of € 1.22 billion in 2015 and employ over 8,600 people worldwide.  ",No (not neccesary),No,,,,,
+235,,WoW-mobility,Other…,/,Multiple Demand responsive ,,https://wow-mobility.com/,"Organiseren deelfietsen, deelautos en secured fietsparkings voor bedrijven en steden",No (not neccesary),No,,,,,
+236,,XXimo,Other…,/,/,/,https://www.xximo.be/,Mobiliteitsoplossingen voor de zakelijke reiziger,No (not neccesary),No,,,,,
+237,8b624f67-60cd-4d1c-92f6-c3ded25308ea ,Zen car,Data supplier,Demand responsive transport - private,Carsharing,Belgium - International,http://zencar.eu/nl/,Autodelen voor bedrijven (B2B),Yes,Yes,,,,,
+238,,FBAA,Federation/network,/,/,Belgium - International,https://www.fbaa.be/,Belgische Federatie van Autocar en Autobus,No (not neccesary),No,,,,,
+239,,Control Body,Other…,/,/,/,,,No (not neccesary),No,,,,,
+240,8dac6d74-69c0-4406-971d-d2a3fda5a9c2 ,Stoomlink,Data user,/,/,/,https://stoomlink.com/,Creates digital products for greener mobility - route planner,Yes,No,,,,,
+241,,Belgian ITS Steering Committee,Other…,/,/,/,https://mobilit.belgium.be/nl/mobiliteit/intelligente_vervoersystemen/its_stuurgroep,,Yes,No,,,,,
+242,,Hoppy,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders Local,https://hoppsharing.be/,Electrische deelsteps in Mechelen,No (not neccesary),Yes,,,,,
+243,,AAB Genva,Data supplier,Demand responsive transport - private,Car-hire,Flanders Local,http://www.aabgenva.be/,Autoverhuurbedrijf te Kontich,No (not neccesary),Yes,,,,,
+244,,AVIS,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,www.avis.be,Autoverhuurbedrijf in meerdere steden,No,Yes,,,,,
+245,,Delrue Rent,Data supplier,Demand responsive transport - private,Car-hire,Flanders Local,https://www.delruerent.be/index.php,Autoverhuurbedrijf in meerdere (kleinere) Vlaamse steden,No (not neccesary),Yes,,,,,
+246,,De Roeck,Data supplier,Demand responsive transport - private,Car-hire,Flanders TEN-T,www.deroeck.be,Autoverhuurbedrijf in Antwerpen,No,Yes,,,,,
+247,,Dockx rental,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,https://www.dockx.be,Autoverhuurbedrijf in meerdere Belgische steden,No,Yes,,,,,
+248,,Mols Huurwagens,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,www.mols.be,Autoverhuurbedrijf in meerdere Belgische steden,No,Yes,,,,,
+249,,Hertz,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,www.hertz.be,Autoverhuurbedrijf in meerdere Belgische steden,No,Yes,,,,,
+250,,Sixt,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,www.sixt.be,Autoverhuurbedrijf in meerdere Belgische steden,No,Yes,,,,,
+251,,Sobeltax,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,https://www.sobeltaxrental.be,Autoverhuurbedrijf in meerdere Belgische steden,No,Yes,,,,,
+252,,Rent A Car,Data supplier,Demand responsive transport - private,Car-hire,Belgium - International,https://www.rentacar.be,Autoverhuurbedrijf in meerdere Belgische steden,No,Yes,,,,,
+253,,VH Huurwagens,Data supplier,Demand responsive transport - private,Car-hire,Flanders Local,https://vhhuurwagens.be,Autoverhuur in Geel en omstreken,No (not neccesary),Yes,,,,,
+254,,Liefkenshoektunnel,Data supplier,Infrastructure manager - private,Toll,Flanders TEN-T,https://www.liefkenshoektunnel.be/,Tunnel met tol in Antwerpen,No,Yes,,,,,
+255,,Antwerp-tax,Data supplier,Demand responsive transport - private,taxi,Flanders TEN-T,www.antwerp-tax.be,Antwerpse taxicentrale,No,Yes,,,,,
+256,,Aptu,Federation/network,Demand responsive transport - private,taxi,Flanders TEN-T,https://aptu.be,Antwerpse provinciale taxi unie,No (not neccesary),No,,,,,
+257,,DTM Taxi,Data supplier,Demand responsive transport - private,taxi,Flanders TEN-T,https://dtmtaxi.be/,Antwerpse taxicentrale,No,Yes,,,,,
+258,,Beepmeup,Data supplier,Demand responsive transport - private,taxi,Flanders TEN-T,https://beepmeup.be/,Antwerpse taxicentrale,No,Yes,,,,,
+259,,Unitax,Data supplier,Demand responsive transport - private,taxi,Belgium - International,https://www.unitax.be/,"Taxicentrale Brussel, zaventem en vlaams brabant",No,Yes,,,,,
+260,,Cargoroo,Data supplier,Demand responsive transport - private,Bike/Step/Scooter sharing,Flanders Local,https://cargoroo.nl,Deel e-bakfietsen in Leuven,No (not neccesary),Yes,,,,,
+261,,la navette fluviale,Data supplier,Organised transport - private,Maritime,Wallonia local,https://www.navettefluviale.be/en/,Ferry Luik,No (not neccesary),Yes,,,,,
+262,,HUSK,Data supplier,Demand responsive transport - private,taxi,Brussels,www.justhusk.be,private driver platform in Brussels (B2B and for individuals),No,Yes,,,,,
+263,,Fietsbus,Data supplier,Organised transport - private,Bus - classic (scheduled),Flanders TEN-T,https://www.portofantwerp.com/nl/fietsbus,Fietsbus van linker- naar rechteroever in de Antwerpsehaven,No,Yes,,,,,
+264,,DeWaterbus,Data supplier,Organised transport - private,Maritime (incl. Ferry),Flanders TEN-T,https://dewaterbus.be/,Ferry van Antwerpen naar Hemiksem,No,Yes,,,,,
+265,,Flexifleet,Consultancy,/,/,/,https://wizkey.eu/,SAAS - mobiliteitsconsultant (vroeger Bollides),No,No,,,,,
+266,,Wizkey,Data supplier B2B,/,/,/,https://flexifleet.eu/,B2B car sharing and rental service,No,No,,,,,
+267,,Waterlimo,Data supplier,Organised transport - private,Maritime (incl. Ferry),Flanders TEN-T,https://waterlimo.be,Ferry van Antwerpen naar Temse,No,Yes,,,,,
+268,,Total,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.total.com,keten van tankstations,No,Yes,,,,,
+269,,Q8,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.q8.be,keten van tankstations,No,Yes,,,,,
+270,,Shell,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.shell.com,keten van tankstations,No,Yes,,,,,
+271,,Texaco,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.texaco.com,keten van tankstations,No,Yes,,,,,
+272,,Esso,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.esso.be,keten van tankstations,No,Yes,,,,,
+273,,Lukoil,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.lukoil.be,keten van tankstations,No,Yes,,,,,
+274,,Dats24,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,https://customer.dats24.be/wps/portal/datscustomer/nl/dats24/mobility,keten van tankstations,No,Yes,,,,,
+275,,Gabriëls-Power,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.gabriels.be,keten van tankstations,No,Yes,,,,,
+276,,Octa+,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.octaplus.be,keten van tankstations,No,Yes,,,,,
+277,,Asoil,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,https://andrecelis.be/andrecelis_nl/asoil-tankstations,keten van tankstations,No,Yes,,,,,
+278,,Avia,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.avia.be,keten van tankstations,No,Yes,,,,,
+279,,G&V,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.g-v.be,keten van tankstations,No,Yes,,,,,
+280,,Gulf,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.gulf.be,keten van tankstations,No,Yes,,,,,
+281,,Maes,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,www.maes-oil.be,keten van tankstations,No,Yes,,,,,
+282,,PMO,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,https://www.pmo-service.be/nl/tankstations,keten van tankstations,No,Yes,,,,,
+283,,Pollet NV,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,http://polletnv.be/stations,keten van tankstations,No,Yes,,,,,
+284,,Van Raak,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,https://vanraak.be,keten van tankstations,No,Yes,,,,,
+285,,VdB Energie,Data supplier,Demand responsive transport - private,Refuelling points,Belgium - International,https://www.vdbenergie.be,keten van tankstations,No,Yes,,,,,
+286,,VIAS,Federation/network,/,/,/,www.vias.be,Onafhankelijk kennisinstituut over verkeersveiligheid en mobiliteit,No,No,,,,,
+287,,Sceltamobility,Consultany,/,/,/,www.sceltamobility.be,mobilietisbureau,No,No,,,,,
+288,,Mobitwin,Data supplier,Demand responsive,/,Belgium - International,www.mobitwin.be,Sociaalvervoer voor mindermobielen,No,Yes,,,,,
