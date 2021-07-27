@@ -46,3 +46,6 @@ po/*~
 
 
 .DS_Store
+
+data/
+*.csv
