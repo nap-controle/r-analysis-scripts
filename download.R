@@ -37,4 +37,3 @@ for (i in 1:length(organizations$result)) {
   
   write(organization, file=file.path(organizations_path, paste(organization_name, ".json", sep="")))
 }
-
